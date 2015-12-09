@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola Greco | Blog</title>
+    <description>The personal blog of Nicola Greco</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Dec 2015 11:34:16 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Dec 2015 11:34:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Mass-murderer space rock and hash collisions</title>
+        <description>&lt;p&gt;I was on the #IPFS irc channel and some users were discussing about hash collisions, and I read this really clever quote.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mass-murderer space rock happens about once every 30 million years on average. This leads to a probability of such an event occurring in the next second to about 10-15. That’s 45 orders of magnitude more probable than the SHA-256 collision. Briefly stated, if you find SHA-256 collisions scary then your priorities are wrong&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 03 Nov 2015 13:06:04 +0000</pubDate>
+        <link>/hash-collision/2015</link>
+        <guid isPermaLink="true">/hash-collision/2015</guid>
+        
+        
+        <category>Quotes</category>
+        
+      </item>
+    
+      <item>
+        <title>A Center for Decentralization</title>
+        <description>&lt;p&gt;People from the Internet,&lt;br /&gt;
+I will make this very simple,&lt;br /&gt;
+we live in a strange web.&lt;/p&gt;
+
+&lt;p&gt;Data is not yours,&lt;br /&gt;
+services don’t interoperate,&lt;br /&gt;
+you are locked in very many walled-garden,&lt;br /&gt;
+there is someone in the middle of your interactions,&lt;br /&gt;
+(actually, every time the same folks)&lt;br /&gt;
+web pages disappear/die every 100 days,&lt;br /&gt;
+Online identity - what the heck is even that?&lt;/p&gt;
+
+&lt;p&gt;[breath]&lt;/p&gt;
+
+&lt;p&gt;At the same time,&lt;br /&gt;
+Internet connection got better,&lt;br /&gt;
+our computers much faster&lt;br /&gt;
+our devices are all connected,&lt;br /&gt;
+storage is cheap.&lt;/p&gt;
+
+&lt;p&gt;Why don’t we - society, individuals and companies - start to build technologies that take advantage of this?&lt;/p&gt;
+
+&lt;p&gt;Let’s bring decentralization&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Read about my principle for a &lt;a href=&quot;http://nicola.io/decentralized-principles/2015/&quot;&gt;Decentralized Web&lt;/a&gt;&lt;/span&gt; at the center of attention.&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;Now, in practice, I haven’t started a center&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; yet.&lt;/span&gt;. I like to call the meetings that we are starting in Boston with the name “Center for Decentralization” (every other Friday at 4:30 at the Berkman Center/MIT).&lt;/p&gt;
+
+&lt;p&gt;Do get in touch &lt;a href=&quot;http://twitter.com/nicolagreco&quot;&gt;@nicolagreco&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Oct 2015 12:55:04 +0000</pubDate>
+        <link>/decentralization-center/2015</link>
+        <guid isPermaLink="true">/decentralization-center/2015</guid>
+        
+        
+        <category>Decentralized</category>
+        
+        <category>Web</category>
+        
+      </item>
+    
+      <item>
+        <title>At EMNLP 2015</title>
+        <description>&lt;p&gt;The short paper I co-authored before leaving UCL has been published at EMNLP.&lt;/p&gt;
+
+&lt;p&gt;The following is the abstract:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Machine comprehension of text is the overarching goal of a great deal of research in natural language processing. The Machine Comprehension Test (Richardson et al., 2013) was recently proposed to assess methods on an open-domain, extensible, and easy-to-evaluate task consisting of two datasets. In this paper we develop a lexical matching method that takes into account multiple context windows, question types and coreference resolution. We show that the proposed method outperforms the baseline of Richardson et al. (2013), and despite its relative simplicity, is comparable to recent work using machine learning. We hope that our approach will inform future work on this task. Furthermore, we argue that MC500 is harder than MC160 due to the way question answer pairs were created.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the paper &lt;a href=&quot;http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP197.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2015 13:06:04 +0000</pubDate>
+        <link>/emnlp2015/2015</link>
+        <guid isPermaLink="true">/emnlp2015/2015</guid>
+        
+        
+        <category>Publications,</category>
+        
+        <category>NLP</category>
+        
+      </item>
+    
+      <item>
+        <title>Towards the future RDF library</title>
+        <description>&lt;p&gt;RDF is an simple and powerful language to describe data. However, playing with RDF data can get very tricky - especially when doing simple things. Only by solving the user experience of RDF libraries we would really get developers to user RDF more&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; In all of its forms, &lt;em&gt;turtle&lt;/em&gt;, &lt;em&gt;json-ld&lt;/em&gt;, and so on.&lt;/span&gt;. This blog post is directed to the community that works in this field and it is an open call to work on an ultimate, simpler library for RDF.&lt;/p&gt;
+
+&lt;p&gt;I will now show you three ways to do a very simple task (1) the current way (using &lt;a href=&quot;http://github.com/rdf-ext/rdf-ext&quot;&gt;rdf-ext&lt;/a&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; I have been recently involved with the development of this library&lt;/span&gt;) (2) the way developers find familiar (3) the way the future RDF lib should be.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-current-rdf-way&quot;&gt;The current RDF way&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Example 1:&lt;/em&gt; Creating a graph with a triple that represents my name&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;var rdf = require(&#39;rdf-ext&#39;)
+var me = rdf.createGraph()
+me.add(new rdf.Triple(
+  new rdf.NamedNode(&#39;http://nicola.io&#39;),
+  new rdf.NamedNode(&#39;http://xmlns.com/foaf/0.1/name&#39;),
+  new rdf.Literal(&#39;Nicola&#39;)
+  ))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Example 2:&lt;/em&gt; Retrieving my name from the graph&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;me.match(
+  &#39;http://nicola.io&#39;,
+  &#39;http://xmlns.com/foaf/0.1/name&#39;)[0]
+  .object
+  .toString()
+// Nicola
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;the-javascript-objects-way&quot;&gt;The Javascript Objects way&lt;/h2&gt;
+
+&lt;p&gt;Now, to the RDF experts, this might sound about right, but let’s remember one second how &lt;em&gt;real world&lt;/em&gt; developers would do something like that, let’s say using Javascript Objects.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Example 3:&lt;/em&gt; The equivalent of Example 1 and 2 using JSON&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;var me = {
+  name: &#39;Nicola&#39;
+}
+
+me.name
+// Nicola
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;the-future-rdf-way&quot;&gt;The future RDF way&lt;/h2&gt;
+
+&lt;p&gt;The future RDF library should provide a seamless experience to the developer that is used to the JS object.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Example 4:&lt;/em&gt; The equivalent of Example 1 and 2 as it should be&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;var r = require(&#39;simplerdf&#39;)
+var me = r()
+r[&#39;http://xmlns.com/foaf/0.1/name&#39;] = &#39;Nicola&#39;
+
+r[&#39;http://xmlns.com/foaf/0.1/name&#39;]
+// Nicola
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Even simpler, I should be able to load an JSON-LD context to achieve the following&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;var me = r()
+me.context({
+  &#39;name&#39;: &#39;http://xmlns.com/foaf/0.1/name&#39;,
+  &#39;homepage&#39;: {
+    &#39;@id&#39;: &#39;http://xmlns.com/foaf/0.1/homepage&#39;,
+    &#39;@type&#39;: &#39;@id&#39;
+  }
+})
+me.name = &#39;Nicola&#39;
+
+me.name
+// Nicola
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In other words, the key hack is on &lt;code&gt;Object.defineProperty&lt;/code&gt; which enable us to redefine the getters/setters of object properties. So, in other words, we can have the power of a graph, behind some simple operations.&lt;/p&gt;
+
+&lt;p&gt;As a last note, as many of you may point out, these examples only show how to do operations when both the subject and the predicate are known - what about the rest?&lt;/p&gt;
+
+&lt;p&gt;In my opinion, this is already a big step forward simplifying RDF, maybe there are some operations would not be possible to achieve, and we can always come back to the traditional way of handling a graph &lt;code&gt;me.toGraph()&lt;/code&gt;, or we can find together some new clever solutions that have the same spirit of simplicity.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I implemented most of what presented here in a library called &lt;a href=&quot;http://github.com/nicola/simplerdf&quot;&gt;simplerdf&lt;/a&gt; - please, have a look at &lt;a href=&quot;https://github.com/nicola/simplerdf/tree/master/examples&quot;&gt;further examples&lt;/a&gt;. However, as you may expect, this library is not stable at all, the APIs could change drastically in the next few days.&lt;/p&gt;
+
+&lt;p&gt;If you are interested, I really would like to hear from you, and maybe fork the Github repository and contribute, so that maybe, we could really write the future RDF library together.&lt;/p&gt;
+
+&lt;p&gt;Inspired by this &lt;a href=&quot;https://github.com/webr3/js3&quot;&gt;repo&lt;/a&gt; that has been written 5 years ago.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Sep 2015 11:47:04 +0000</pubDate>
+        <link>/future-rdf/2015</link>
+        <guid isPermaLink="true">/future-rdf/2015</guid>
+        
+        
+        <category>Decentralized</category>
+        
+        <category>Web</category>
+        
+      </item>
+    
+      <item>
+        <title>The principles of a decentralized web</title>
+        <description>&lt;p&gt;In this article I will briefly introduce the my three key aspects that a decentralized web I think should have.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Users are in &lt;strong&gt;Control&lt;/strong&gt; of their data&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interoperability&lt;/strong&gt; across the services on the web and&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Portability&lt;/strong&gt; of the data&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hopefully, I will go deeper in the next few days. In the meantime, please tell me what are the principles that you care about and how we can extend this.&lt;/p&gt;
+
+&lt;p&gt;I am soon going to set up a mailing list for MIT, Harvard friends and passionates, please ping me if you want to get involved &lt;a href=&quot;http://twitter.com&quot;&gt;@nicolagreco&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: The post is trending on HackerNews and I would like to point out something to the readers. This post is an introductory post and the aim of this post is to continue to spark and foster interest in this field as well as starting the conversation of &lt;em&gt;What are the principles that matter to you and why?&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2015 18:06:04 +0000</pubDate>
+        <link>/decentralized-principles/2015</link>
+        <guid isPermaLink="true">/decentralized-principles/2015</guid>
+        
+        
+        <category>Decentralized</category>
+        
+        <category>Web</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducing Versioning Poems</title>
+        <description>&lt;p&gt;In London we have a fantasic group of people that discusses cutting edge ideas, the group is called the &lt;strong&gt;Palo Alto Supermarket test&lt;/strong&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; It abbreviates as &lt;strong&gt;PST&lt;/strong&gt;, maybe it is worth looking for an interesting acronym, e.g. &lt;em&gt;Policy&lt;/em&gt;, &lt;em&gt;Society&lt;/em&gt; and &lt;em&gt;Technology&lt;/em&gt;. Please ping me on twitter if you want to join in.&lt;/span&gt;. A recurrent topic has been Post-Internet art which we think it can be the next artistic expression trend.&lt;/p&gt;
+
+&lt;p&gt;In this post, I would like to introduce one way of writing Post-Internet poetry that mixes &lt;strong&gt;traditional&lt;/strong&gt; poetry and &lt;strong&gt;coding&lt;/strong&gt; poetry: &lt;strong&gt;Versioning Poems&lt;/strong&gt; - I hope to inspire a new generation of poets, please update me &lt;a href=&quot;http://twitter.com/nicolagreco&quot;&gt;@nicolagreco&lt;/a&gt; if you write some.&lt;/p&gt;
+
+&lt;h2 id=&quot;versioning-poems&quot;&gt;Versioning Poems&lt;/h2&gt;
+
+&lt;p&gt;A versioning poem has two characteristics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Versioning tool&lt;/strong&gt;: The poem written in commit messages using a versioning tool&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Commit diff&lt;/strong&gt;: Each line has a commit diff that has code related to the message&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this way, one could clone a repository and just list the commit messages. The following is a poem of mine &lt;a href=&quot;https://github.com/nicola/flowers-poem&quot;&gt;9*19 Flowers poem&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;understanding-requirement-1&quot;&gt;Understanding requirement 1&lt;/h3&gt;
+
+&lt;p&gt;As you can see each line shows up as a poem&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ git clone https://github.com/nicola/flowers-poem
+$ git fetch origin poem
+$ git checkout poem
+$ git log --format=&quot;%C(yellow)%h%Creset %Cgreen%s%Creset%n%b&quot;
+
+ea814f4 POEM: 9*19 flowers
+02d0dc0 Handcraft flowers from maths and lines,
+aa14064 Choose the colors to make them shine,
+ad4e12c Till the soil to plant the seeds.
+700b967 .
+7cea9e1 See me to make me glow
+93c57f8 Touch me to give you more
+e023bd0 Touch me you&#39;ll never stop
+e146d2c Please touch me again.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;understanding-requirement-2&quot;&gt;Understanding requirement 2&lt;/h3&gt;
+
+&lt;p&gt;The difference added by &lt;code&gt;93c57f8 Touch me to give you more&lt;/code&gt; relates to a piece of code that adds the function &lt;code&gt;start_touching&lt;/code&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-diff&quot;&gt;93c57f8 Touch me to give you more
++  function start_touching(d, i) {
++    var flower = d3.select(this);
++    flower
++     .transition()
++     .delay(10)
++     .duration(1000)
++     .attr(&quot;d&quot;, handcraft_flower)
++     .style(&quot;stroke&quot;, &quot;#ccc&quot;);
++  }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;../../assets/img/flowers.png&quot; /&gt;Figure 1: Detail of 9*19 Flowers poem&lt;/span&gt;You can get very bizarre, the code does not need to work necessarely. In the case of my flowers, the final commit brings up a final working version of a &lt;a href=&quot;http://nicola.io/flowers-poem/&quot;&gt;visualization of the poem&lt;/a&gt; (See Figure 1).&lt;/p&gt;
+
+&lt;p&gt;I challenge your engineering skills and creativity to surprise me with a poem of yours.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2015 23:42:04 +0000</pubDate>
+        <link>/versioning-poems/2015</link>
+        <guid isPermaLink="true">/versioning-poems/2015</guid>
+        
+        
+        <category>Post-Internet</category>
+        
+      </item>
+    
+      <item>
+        <title>On leaving University College London</title>
+        <description>&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: I applied to MIT a year before finishing and I dropped out from the 4 year course at UCL&lt;/span&gt; In the last few days, I had this recurring conversation on how I left University College London.&lt;/p&gt;
+
+&lt;p&gt;I was coming from an intense experience at Mozilla, where I strengthen my interest in decentralizing the web. I felt that the time spent in London was not going in that direction. Although the time spent at University College London was really exciting, I felt that was not the place I wanted to be. I wanted to work on my ideas, like &lt;a href=&quot;http://github.com/nicola/bubbles&quot;&gt;Bubbles&lt;/a&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Interoperable decentralized data storage&lt;/span&gt;, &lt;a href=&quot;http://github.com/nicola/crowd&quot;&gt;crowd&lt;/a&gt; and I could not find professors interested in web protocols, standards and decentralized systems; more than that, very few undergraduate students carry on research with professors at UCL. I really believe I can make a change, but I felt I didn’t have the tools. It has been extremely complicated and psychologically stressful time.&lt;/p&gt;
+
+&lt;p&gt;I remember when, a two years ago, discussing with &lt;a href=&quot;https://github.com/sorig&quot;&gt;Esben&lt;/a&gt; and &lt;a href=&quot;https://github.com/verajohne&quot;&gt;Vera&lt;/a&gt;, I said “&lt;em&gt;if I will ever work for a company, I would work for Mozilla, if I will ever do a PhD, I want to go at MIT working with Tim Berners Lee&lt;/em&gt;. That was pure daydreaming, but &lt;strong&gt;is all this &lt;em&gt;wondering&lt;/em&gt; just words that we say, or reality we wish it could happen?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, I decided to apply to MIT - even though I needed one more year to graduate. I had found out that one could drop out from the degree and leave with a BSc in Computing, instead of Computer Science. So, I decided, that if that was the case, I would have gone that route&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; I found out that BSc in Computing is basically equivalent to Computer Science, University of Cambridge and Imperial College London for example, only award this title&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Because I feared that not having a final year dissertation could have been a minus, I worked hard with Ellery to get &lt;a href=&quot;http://www.emnlp2015.org/accepted-papers.html&quot;&gt;A Strong Lexical Matching Method for the Machine Comprehension Test&lt;/a&gt; published at &lt;a href=&quot;http://www.emnlp2015.org&quot;&gt;EMNLP 2015&lt;/a&gt;. Also, a couple of weeks ago, I got informed that I have been awarded the &lt;strong&gt;Dean’s List Award&lt;/strong&gt; for &lt;em&gt;Outstanding academic performance&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the end I got in and it all played well.&lt;/p&gt;
+
+&lt;p&gt;Family and friends were very close in this period of stress and internal crisis (especially September to December), I would not have had this strength otherwise.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2015 13:06:04 +0000</pubDate>
+        <link>/leaving-ucl/2015</link>
+        <guid isPermaLink="true">/leaving-ucl/2015</guid>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 1: Arriving at MIT</title>
+        <description>&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;../../assets/img/week1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Nicola and the MIT dome at night&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So, I decided to follow &lt;a href=&quot;https://www.facebook.com/cioara.andrei&quot;&gt;Andrei&lt;/a&gt;’s idea, based on my original idea of weekly updates on my life. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;So, yes, it is now official, I am now at MIT. I just arrived in this exciting place with my father. I have been buying furniture, getting a student card, having dinner with my research group that has been extremely welcoming, making new Indian, Mexican and Italian friends (and so many other nationalities).&lt;/p&gt;
+
+&lt;p&gt;I have been to plenty of orientation events, that made me revive all the great moments I had in my first year at UCL. Boat cruise, night walks, and more than everything else, meeting a lot of new people everyday. Although Cambridge has been great so far, I do miss London, the Londoners and the adopted Londoners I met in the last three years&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; I did my undergraduate studies at University College London&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tonight I have seen the dome for the first time, and it has been a magic couple of seconds.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 13:06:04 +0000</pubDate>
+        <link>/week-1/2015</link>
+        <guid isPermaLink="true">/week-1/2015</guid>
+        
+        
+        <category>Weekly</category>
+        
+        <category>Updates</category>
+        
+      </item>
+    
+  </channel>
+</rss>
