@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nicola Greco | Blog</title>
-    <description>The personal blog of Nicola Greco</description>
+    <title>William Fonzface | Blog</title>
+    <description>The personal blog of William Fonzface</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Dec 2015 11:34:16 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 11:34:16 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Dec 2015 18:17:29 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Dec 2015 18:17:29 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -58,7 +58,7 @@ storage is cheap.&lt;/p&gt;
 
 &lt;p&gt;Do get in touch &lt;a href=&quot;http://twitter.com/nicolagreco&quot;&gt;@nicolagreco&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Oct 2015 12:55:04 +0000</pubDate>
+        <pubDate>Thu, 01 Oct 2015 13:55:04 +0100</pubDate>
         <link>/decentralization-center/2015</link>
         <guid isPermaLink="true">/decentralization-center/2015</guid>
         
@@ -79,7 +79,7 @@ storage is cheap.&lt;/p&gt;
 
 &lt;p&gt;You can find the paper &lt;a href=&quot;http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP197.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Sep 2015 13:06:04 +0000</pubDate>
+        <pubDate>Tue, 22 Sep 2015 14:06:04 +0100</pubDate>
         <link>/emnlp2015/2015</link>
         <guid isPermaLink="true">/emnlp2015/2015</guid>
         
@@ -177,7 +177,7 @@ me.name
 
 &lt;p&gt;Inspired by this &lt;a href=&quot;https://github.com/webr3/js3&quot;&gt;repo&lt;/a&gt; that has been written 5 years ago.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Sep 2015 11:47:04 +0000</pubDate>
+        <pubDate>Fri, 11 Sep 2015 12:47:04 +0100</pubDate>
         <link>/future-rdf/2015</link>
         <guid isPermaLink="true">/future-rdf/2015</guid>
         
@@ -204,7 +204,7 @@ me.name
 
 &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: The post is trending on HackerNews and I would like to point out something to the readers. This post is an introductory post and the aim of this post is to continue to spark and foster interest in this field as well as starting the conversation of &lt;em&gt;What are the principles that matter to you and why?&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Sep 2015 18:06:04 +0000</pubDate>
+        <pubDate>Tue, 08 Sep 2015 19:06:04 +0100</pubDate>
         <link>/decentralized-principles/2015</link>
         <guid isPermaLink="true">/decentralized-principles/2015</guid>
         
@@ -274,7 +274,7 @@ e146d2c Please touch me again.
 
 &lt;p&gt;I challenge your engineering skills and creativity to surprise me with a poem of yours.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Sep 2015 23:42:04 +0000</pubDate>
+        <pubDate>Tue, 08 Sep 2015 00:42:04 +0100</pubDate>
         <link>/versioning-poems/2015</link>
         <guid isPermaLink="true">/versioning-poems/2015</guid>
         
@@ -299,7 +299,7 @@ e146d2c Please touch me again.
 
 &lt;p&gt;Family and friends were very close in this period of stress and internal crisis (especially September to December), I would not have had this strength otherwise.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Sep 2015 13:06:04 +0000</pubDate>
+        <pubDate>Mon, 07 Sep 2015 14:06:04 +0100</pubDate>
         <link>/leaving-ucl/2015</link>
         <guid isPermaLink="true">/leaving-ucl/2015</guid>
         
@@ -320,7 +320,7 @@ e146d2c Please touch me again.
 
 &lt;p&gt;Tonight I have seen the dome for the first time, and it has been a magic couple of seconds.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Sep 2015 13:06:04 +0000</pubDate>
+        <pubDate>Fri, 04 Sep 2015 14:06:04 +0100</pubDate>
         <link>/week-1/2015</link>
         <guid isPermaLink="true">/week-1/2015</guid>
         

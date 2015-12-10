@@ -206,18 +206,18 @@ body {
 .desc {
   color: #888;
   padding: 10px 20px;
-  background: whitesmoke none repeat scroll 0% 0%;
+  background: #f9f9f9 none repeat scroll 0% 0%;
   font-size: 1rem;
   font-family: Georgia;
   text-shadow: 0 1px 0 #fff;
-  width: 60%; }
+  width: 80%; }
 
 .auth {
   margin: 3px 20px; }
 
 @media screen and (min-width: 800px) {
   body {
-    max-width: 850px;
+    max-width: 1000px;
     padding-left: 8.4%; } }
 body > header {
   padding-top: 1rem;
@@ -227,11 +227,11 @@ header > nav.group {
   height: 4.5rem; }
 
 header > nav a {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #0099FF;
+  color: #b61511;
   padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
@@ -264,7 +264,7 @@ body > footer ul li a {
 .credits {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
   .credits a {
-    color: #0099FF; }
+    color: #b61511; }
 
 h1.content-listing-header {
   font-style: normal;
@@ -322,7 +322,7 @@ article {
   position: relative; }
 
 p, li {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.4;
   margin-top: 1.4rem;
   margin-bottom: 1.4rem;
@@ -330,7 +330,7 @@ p, li {
   vertical-align: baseline; }
 
 p, article ul li, pre code, pre code p, code {
-  width: 60%; }
+  width: 80%; }
 
 @media screen and (max-width: 600px) {
   p {
@@ -342,7 +342,7 @@ p, article ul li, pre code, pre code p, code {
   p.hideOnSmall {
     display: none; } }
 a, .marginnote a, .sidenote a {
-  color: #0099FF;
+  color: #b61511;
   background-color: rgba(102, 204, 255, 0.07);
   padding: 0px 1px;
   border-bottom-width: 1px;
@@ -373,7 +373,7 @@ sub {
   width: 50%;
   margin-top: 0rem;
   margin-bottom: 1.96rem;
-  font-size: 1.0rem;
+  font-size: 1.2rem;
   line-height: 1.96;
   vertical-align: baseline;
   position: relative; }
@@ -438,7 +438,7 @@ h6, .smaller, [id^="fn:"] > p, ol > [id^="fn:"] {
   line-height: 1.63333333333; }
 
 ol > [id^="fn:"] {
-  color: #0099FF; }
+  color: #b61511; }
   ol > [id^="fn:"] p {
     color: #3b3b3b; }
 
@@ -446,7 +446,7 @@ h6 {
   font-style: italic; }
 
 .contrast {
-  color: #0099FF; }
+  color: #b61511; }
 
 div.footnotes {
   margin-bottom: 1.4rem; }
@@ -489,7 +489,7 @@ a.url, .sidenote a {
   font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace; }
 
 sup.sidenote-number {
-  color: #4db8ff; }
+  color: #eb2d29; }
 
 span.newthought {
   font-variant: small-caps; }
@@ -574,7 +574,7 @@ span.newthought {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  color: #0099FF;
+  color: #b61511;
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
