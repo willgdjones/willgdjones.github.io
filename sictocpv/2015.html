@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>SIC to CPV Converter</title>
+  <meta name="description" content="During my project with the ASI, I came across the problem of converting between SIC codes and CPV codes. SIC codes describe the economic activites of UK comp...">
+
+  <link rel="me" href="https://twitter.com/willgdjones" />
+  <link rel="me" href="https://github.com/willgdjones" />
+  <link rel="me" href="https://facebook.com/willgdjones" />
+
+  <link rel="stylesheet" href="../../css/tufte.css">	
+  
+  <!-- Google Fonts loaded here -->
+  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+
+
+<meta content="William Fonzface | Blog" property="og:site_name">
+
+  <meta content="SIC to CPV Converter" property="og:title">
+
+
+
+  <meta content="article" property="og:type">
+
+
+<!-- 
+  <meta content="The personal blog of William Fonzface" property="og:description">
+
+ -->
+
+
+
+  <meta content="../../sictocpv/2015" property="og:url">
+
+
+
+  <meta content="2015-12-14T00:00:00+00:00" property="article:published_time">
+  <meta content="https://www.facebook.com/nicolagreco" property="article:author">
+
+
+  <meta content="../../assets/img/nicola.jpg" property="og:image">
+
+
+  
+  <meta content="Projects" property="article:section">
+  
+
+
+  
+
+
+
+  <link rel="canonical" href="/sictocpv/2015">
+  <link rel="alternate" type="application/rss+xml" title="William Fonzface | Blog" href="/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+
+
+<header>
+
+  <nav class="group">
+    <a href="../../">Home</a>
+    <a href="../../about">About me</a>
+    <a href="../../projects">Projects</a>
+  </nav>
+  <div class="">
+    <!-- <p><a href="../../" rel="me">William Jones</a></p> -->
+    <p>My fire is to build things with your genomic data.<span class="sidenote">This site is a work in progress, like me. Read more <a href="../../about">here</a></span>
+
+    <p>I'm a PhD Student in <a href="http://cato.medschl.cam.ac.uk/graduate-programmes/phd-programmes/wellcome-trust-mathematical-genomics-and-medicine-mgm/">Mathematical Genomics and Medicine</a> at the <a href="http://www.cam.ac.uk/">University of Cambridge</a>. Previously I've been an <a href="http://www.theasi.co/">ASI fellow</a>, <a href="https://www.cl.cam.ac.uk/admissions/acs/">Advanced Computer Science</a> student, <a href="">Google</a> intern, and <a href="http://ucle.co/">UCL Entrepreneurs</a> president.</p>
+  </div>
+
+</header>
+
+    <article>
+      <h1>SIC to CPV Converter</h1>
+<p>December 14, 2015</p>
+
+
+<p>During my project with the ASI, I came across the problem of converting between SIC codes and CPV codes. SIC codes describe the economic activites of UK companies. On the other hand, CPV codes describe the industries that government contracts fall into. Amazingly, there is no correspondance between these two categorisations. My resulting project, <a href="https://contracts-recommender.herokuapp.com/">Contracts Recommender</a> relies almost entirely on this translation.</p>
+
+<p>Since this might be useful to others working with government data, I’ve decided to make it <a href="https://github.com/willgdjones/SICtoCPV">open source</a> and release it as a stand-alone project: <a href="https://sictocpv.herokuapp.com/">SICtoCPV</a>. The <a href="https://github.com/willgdjones/SICtoCPV/blob/master/SICtoCPVfunctions.ipynb">IPython notebook</a> with all the modules and a worked through example is also available.</p>
+
+<p>Here’s me presenting <a href="https://contracts-recommender.herokuapp.com/">Contracts Recommender</a> as a <a href="https://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-improving-uk-government-spending-using-data-science">Friday lunchtime lecture</a> at the <a href="http://theodi.org/">Open Data Institute</a>, where I go into some more detail.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/uIPfyRg7fHI" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Drop me an email if it’s useful - I’d be interested to hear how people are using it.</p>
+
+
+
+<p class="">
+  - <a href="/about">Will Fonzface</a>,<br>
+  <em>Building products with your genome.</em>
+</p>
+
+<div class="more">
+<h4>Thanks for reading</h4>
+
+ <!-- for1 -->
+    <li>
+      <span class="recent-title"><a href="/sictocpv/2015" title="SIC to CPV Converter">SIC to CPV Converter </a></span>
+      <span class="date">Dec 14, 2015</span>
+    </li>
+
+</div>
+
+<!-- <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'nicolaio';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript> -->
+    </article>
+    <span class="print-footer">SIC to CPV Converter - December 14, 2015 - William Fonzface</span>
+    <footer class="desc">
+  <span>You can contact me via
+    <a href="mailto:williamgdjones@gmail.com">Email</a>
+    
+      , <a href="//www.twitter.com/willgdjones">Twitter</a>
+    
+      , <a href="//github.com/willgdjones">Github</a>
+    
+      , <a href="//uk.linkedin.com/in/willgdjones">Linkedin</a>
+    </span>
+<div class="credits">
+<span>&copy; 2015 &nbsp;&nbsp;WILLIAM FONZFACE</span></br> 
+<span>Using <a href="//jekyllrb.com">Jekyll</a>, theme based on <a href="//github.com/clayh53/tufte-jekyll">Tufte</a>, with inspiration from my good friend <a href="http://nicola.io/">Nicola</a></span> 
+</div>  
+</footer>
+
+<!--  -->
+  </body>
+</html>
