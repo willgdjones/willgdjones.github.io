@@ -1,0 +1,20 @@
+---
+layout: page
+title: Essays
+permalink: /essays/
+---
+
+Here are my collected essays on technology, systems thinking, and other topics that fascinate me:
+
+<ul class="essay-list">
+  {% for essay in site.essays reversed %}
+    <li class="essay-item">
+      <h3 class="essay-title">
+        <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
+      </h3>
+      <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
+        {{ essay.date | date: "%B %-d, %Y" }}
+      </time>
+    </li>
+  {% endfor %}
+</ul> 

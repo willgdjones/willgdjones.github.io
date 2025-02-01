@@ -1,0 +1,64 @@
+# Site settings
+title: "Will Jones"
+description: "A collection of ideas and explorations"
+baseurl: ""
+url: "https://willgdjones.github.io"  # Replace with your actual domain
+author: "Will Jones"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+highlighter: rouge  # Added for code syntax highlighting
+
+# Google Analytics
+google_analytics: G-XXXXXXXXXX  # Replace with your GA4 tracking ID
+
+# Collections
+collections:
+  essays:
+    output: true
+    permalink: /essays/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Your Name"  # Added default author
+  - scope:
+      path: ""
+      type: "essays"
+    values:
+      layout: "essay"
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
+
+# SEO settings
+twitter:
+  username: your-twitter-handle  # Optional, remove if not needed
+social:
+  name: Your Name
+  links:
+    - https://twitter.com/your-twitter-handle  # Add or remove social links as needed
+    - https://github.com/your-github-handle
+
+# Plugin settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap  # Automatically generates sitemap.xml
+  - jekyll-feed     # Added for RSS feed support
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor 
