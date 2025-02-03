@@ -48,6 +48,13 @@ nav {
     align-items: center;
 }
 
+/* Site title and main nav links */
+nav .home,
+.nav-links a {
+    font-weight: bold;
+    letter-spacing: 0.03em;
+}
+
 .nav-links a {
     margin-left: 2rem;
     font-size: 1.1rem;
@@ -250,6 +257,9 @@ pre, code {
 
 .essay-title {
     margin: 0 0 0.5rem 0;
+    font-weight: normal;
+    color: var(--text-color);
+    opacity: 0.8;
 }
 
 .essay-date {
@@ -301,4 +311,78 @@ pre, code {
 
 .error-page li {
     margin: 1rem 0;
+}
+
+/* Post styles */
+.post {
+    margin-bottom: 4rem;
+}
+
+.post h1 {
+    margin-bottom: 0.5rem;
+}
+
+.post-date {
+    display: block;
+    color: var(--side-note-color);
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+}
+
+.post-content {
+    margin-top: 2rem;
+}
+
+/* Ensure proper spacing for lists in content */
+.post-content ul,
+.post-content ol {
+    margin: 1.4rem 0;
+    padding-left: 1.5rem;
+}
+
+/* Ensure proper spacing for paragraphs */
+.post-content p {
+    margin: 1.4rem 0;
+}
+
+/* Post styles */
+.post-header {
+    margin-bottom: 3rem;
+}
+
+.post-date {
+    display: block;
+    color: var(--side-note-color);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+.post-content {
+    margin-bottom: 4rem;
+}
+
+/* Ensure proper spacing for lists in content */
+.post-content ul,
+.post-content ol {
+    margin-bottom: 1.4rem;
+    padding-left: 1.5rem;
+}
+
+/* Home page specific styles */
+.random-essays {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--text-color);
+}
+
+.random-essays h2 {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    color: var(--side-note-color);
+    font-weight: bold;
+    letter-spacing: 0.03em;
+}
+
+.random-essays .essay-list {
+    margin-top: 0;
 } 

@@ -1,17 +1,31 @@
 ---
 layout: default
 ---
+
 <article class="post">
-    <header class="post-header">
-        <h1>{{ page.title }}</h1>
-        <div class="post-meta">
-            <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{ page.date | date: "%B %-d, %Y" }}
-            </time>
-        </div>
-    </header>
+    <h1>{{ page.title }}</h1>
+    
+    <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %-d, %Y" }}
+    </time>
 
     <div class="post-content">
         {{ content }}
     </div>
-</article> 
+</article>
+
+<div class="random-essays">
+    <h2>Explore</h2>
+    <ul class="essay-list">
+        {% assign other_essays = site.essays | where_exp:"essay", "essay.url != page.url" %}
+        {% assign essay = other_essays | sample: 1 | first %}
+        <li class="essay-item">
+            <h3 class="essay-title">
+                <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
+            </h3>
+            <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
+                {{ essay.date | date: "%B %-d, %Y" }}
+            </time>
+        </li>
+    </ul>
+</div> 

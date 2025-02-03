@@ -18,9 +18,6 @@ collections:
   essays:
     output: true
     permalink: /essays/:path/
-  notes:
-    output: true
-    permalink: /notes/:path/
 
 # Default front matter
 defaults:
@@ -31,23 +28,18 @@ defaults:
       author: "Your Name"  # Added default author
   - scope:
       path: ""
-      type: "essays"
+      type: "essays"    # this ensures all essays use the post layout
     values:
-      layout: "essay"
-  - scope:
-      path: ""
-      type: "notes"
-    values:
-      layout: "note"
+      layout: "post"
 
 # SEO settings
-twitter:
-  username: your-twitter-handle  # Optional, remove if not needed
+x:
+  username: willgdjones  # Optional, remove if not needed
 social:
-  name: Your Name
-  links:
-    - https://twitter.com/your-twitter-handle  # Add or remove social links as needed
-    - https://github.com/your-github-handle
+  username: willgdjones
+  x: https://x.com/willgdjones
+  linkedin: https://www.linkedin.com/in/willgdjones
+  github: https://github.com/willgdjones
 
 # Plugin settings
 plugins:

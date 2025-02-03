@@ -1,18 +1,22 @@
 ---
 layout: default
 ---
+
 <div class="home">
     {{ content }}
 
-    <h2>Recent Posts</h2>
-    <ul class="post-list">
-        {% for post in site.posts limit:5 %}
-        <li>
-            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-            <h3>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h3>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="random-essays">
+        <h2>Explore</h2>
+        <ul class="essay-list">
+            {% assign essay = site.essays | sample: 1 %}
+            <li class="essay-item">
+                <h3 class="essay-title">
+                    <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
+                </h3>
+                <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
+                    {{ essay.date | date: "%B %-d, %Y" }}
+                </time>
+            </li>
+        </ul>
+    </div>
 </div> 
