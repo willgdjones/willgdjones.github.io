@@ -7,7 +7,7 @@ date: 2025-02-01
 DocTweak v0.1 is a tool that integrates AI assistance into Google Docs. It enables dynamic content editing right where you write, rather than constantly copying and pasting content into ChatGPT.
 
 <figure>
-  <img src="/assets/images/DocTweak.gif" alt="DocTweak interface showing AI suggestions in Google Docs">
+  <img src="/assets/images/DocTweakv0.1.gif" alt="DocTweak interface showing AI suggestions in Google Docs">
   <figcaption>DocTweak in action: AI-powered suggestions directly in Google Docs</figcaption>
 </figure>
 
