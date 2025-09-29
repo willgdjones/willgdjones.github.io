@@ -6,9 +6,8 @@ layout: default
     {{ content }}
 
     <div class="random-essays">
-        <h2>Explore</h2>
         <ul class="essay-list">
-            {% assign essay = site.essays | sample: 1 %}
+            {% for essay in site.essays reversed %}
             <li class="essay-item">
                 <h3 class="essay-title">
                     <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
@@ -17,6 +16,7 @@ layout: default
                     {{ essay.date | date: "%B %-d, %Y" }}
                 </time>
             </li>
+            {% endfor %}
         </ul>
     </div>
 </div> 

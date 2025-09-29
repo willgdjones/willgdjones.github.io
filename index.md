@@ -12,7 +12,4 @@ Previously I studied Mathematics at UCL, Computer Science at Cambridge, and was 
 
 I love to build and share little prototypes using new technology. Please reach out to me if anything resonates with you I am sure I would love to meet you!
 
-You can find me on:
-- [GitHub]({{ site.social.github }})
-- [X]({{ site.social.x }})
-- [LinkedIn]({{ site.social.linkedin }})
+You can find me on [X]({{ site.social.x }}), [LinkedIn]({{ site.social.linkedin }}), and [GitHub]({{ site.social.github }}).
