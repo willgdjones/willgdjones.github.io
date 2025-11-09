@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "DocTweak: Embedding AI in Google Docs"
+title: "DocTweak"
 date: 2025-02-01
+description: "Embedding AI in Google Docs. A tool that integrates AI assistance directly into Google Docs, enabling dynamic content editing without disrupting your workflow."
 ---
 
 DocTweak is a tool that integrates AI assistance into Google Docs. It enables dynamic content editing right where you write, rather than constantly copying and pasting content into ChatGPT.

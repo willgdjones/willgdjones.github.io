@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "AI Engineer Paris"
+title: "AI Engineer in Paris"
 date: 2025-09-25
+description: "Reflections from the AI Engineer Conference in Paris on agents, context engineering, and the future of AI development."
 ---
 
 

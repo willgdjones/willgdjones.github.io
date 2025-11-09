@@ -12,6 +12,9 @@ layout: default
                 <h3 class="essay-title">
                     <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
                 </h3>
+                {% if essay.description %}
+                <p class="essay-description">{{ essay.description }}</p>
+                {% endif %}
                 <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
                     {{ essay.date | date: "%B %-d, %Y" }}
                 </time>

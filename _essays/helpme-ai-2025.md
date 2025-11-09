@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chatbots Are Dead. Build What’s Next Hackathon"
+title: "HelpMe AI"
 date: 2025-09-27
+description: "Building an Electron app at the Tomoro AI 'Chatbots are Dead. Build what's next' hackathon that provides in-the-moment visual guidance for computer tasks using voice input and screen analysis."
 ---
 
 I spent my Saturday in London at the Tomorrow AI offices, for the [Chatbots Are Dead. Build What’s Next](https://luma.com/mru6gyzs) hackathon.

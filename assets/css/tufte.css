@@ -262,6 +262,14 @@ pre, code {
     opacity: 0.8;
 }
 
+.essay-description {
+    color: var(--side-note-color);
+    font-size: 0.9rem;
+    font-style: italic;
+    margin: 0.5rem 0;
+    opacity: 0.9;
+}
+
 .essay-date {
     color: var(--side-note-color);
     font-size: 0.9rem;
