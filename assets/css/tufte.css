@@ -25,7 +25,7 @@ body {
 
 /* Base container */
 .container {
-    max-width: 35rem;
+    max-width: 43rem;
     margin: 0 auto;
     padding: 0 2rem;
 }
