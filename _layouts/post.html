@@ -14,18 +14,31 @@ layout: default
     </div>
 </article>
 
-<div class="random-essays">
-    <h2>Explore</h2>
-    <ul class="essay-list">
-        {% assign other_essays = site.essays | where_exp:"essay", "essay.url != page.url" %}
-        {% assign essay = other_essays | sample: 1 | first %}
-        <li class="essay-item">
-            <h3 class="essay-title">
-                <a href="{{ essay.url | relative_url }}">{{ essay.title }}</a>
-            </h3>
-            <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
-                {{ essay.date | date: "%B %-d, %Y" }}
-            </time>
-        </li>
-    </ul>
-</div> 
+<div class="random-post-suggestion">
+    <span class="suggestion-label">Keep reading</span>
+    <h3 class="suggestion-title">
+        <a href="#" id="random-post-link" class="suggestion-link"></a>
+    </h3>
+</div>
+
+<script>
+(function() {
+    const allEssays = [
+        {% for essay in site.essays %}
+        {% if essay.url != page.url %}
+        {
+            title: {{ essay.title | jsonify }},
+            url: {{ essay.url | relative_url | jsonify }}
+        }{% unless forloop.last %},{% endunless %}
+        {% endif %}
+        {% endfor %}
+    ].filter(e => e.title);
+    
+    if (allEssays.length > 0) {
+        const randomEssay = allEssays[Math.floor(Math.random() * allEssays.length)];
+        const link = document.getElementById('random-post-link');
+        link.href = randomEssay.url;
+        link.textContent = randomEssay.title;
+    }
+})();
+</script> 

@@ -376,21 +376,29 @@ pre, code {
     padding-left: 1.5rem;
 }
 
-/* Home page specific styles */
-.random-essays {
+/* Random post suggestion */
+.random-post-suggestion {
     margin-top: 4rem;
     padding-top: 2rem;
     border-top: 1px solid var(--text-color);
 }
 
-.random-essays h2 {
-    margin-bottom: 2rem;
-    font-size: 1.5rem;
-    color: var(--side-note-color);
-    font-weight: bold;
-    letter-spacing: 0.03em;
+.suggestion-link {
+    color: var(--text-color);
+    border-bottom: none;
 }
 
-.random-essays .essay-list {
-    margin-top: 0;
+.suggestion-link:hover {
+    border-bottom: 1px solid var(--text-color);
+}
+
+.suggestion-label {
+    color: var(--side-note-color);
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.suggestion-title {
+    font-size: 1.4rem;
+    margin-top: 0.25rem;
 } 
