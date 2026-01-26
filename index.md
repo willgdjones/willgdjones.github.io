@@ -8,7 +8,7 @@ title: Home
 
 Right now, I am figuring out the future and building what should exist.
 
-Between 2018-2025, I was CTO and cofounder of [Sano Genetics](https://sanogenetics.com/), building software to drive down the cost of running precision medicine research, and help precision medicine developers complete their trials faster. I remain an advisor and board member. We have raised £20M, hit £5M in revenue, and serve 4/20 of the top global pharma companies. As CTO, I wrote the first line of code and built a 20-strong, mission-driven eng team from the ground up.
+Between 2018 and 2025, I was CTO and cofounder of Sano Genetics, building software to drive down the cost of running precision medicine research and help precision medicine developers complete their trials faster. I remain an advisor and board member. Sano supports research programs for 4/20 of the top global pharma companies. As CTO, I wrote the first line of code and built a 20-strong, mission-driven eng team from the ground up.
 
 Previously, I studied Mathematics at UCL (top 10 first) and Computer Science at Cambridge (Distinction), and I was a postgraduate researcher in Machine Learning and Genetics at the Wellcome Trust Sanger Institute.
 
