@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-Figuring out the future and building what should exist.
+Figuring out the future and building the obvious.
 
 Between 2018 and 2025, I was CTO and cofounder of Sano Genetics, and built software to reduce the cost of running precision medicine research, helping precision medicine developers complete their trials faster. Sano proudly supports research programs at four of the world’s top-twenty global pharma companies and a full roster of late-stage biotech companies rolling out some incredible new therapies. As CTO, I wrote the first line of code and built a 20-strong, mission-driven eng team from the ground up.  I remain an advisor and board member.
 
