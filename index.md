@@ -12,9 +12,9 @@ Between 2018-2025, I was CTO and cofounder of [Sano Genetics](https://sanogeneti
 
 Previously, I studied Mathematics at UCL (top 10 first) and Computer Science at Cambridge (Distinction), and I was a postgraduate researcher in Machine Learning and Genetics at the Wellcome Trust Sanger Institute.
 
-I love building and sharing small prototypes using new technologies. Please reach out to me if anything resonates with you I am sure I would love to meet you.
+I love building and sharing small prototypes using new technologies. Please reach out to me if anything resonates with you. I am sure I would love to meet you.
 
-I operate AI consultancy projects via my company, Perihelion Limited, company number 16927629.
+I operate AI consultancy projects through my company, Perihelion Limited (company number 16927629).
 
 Areas I provide 10x the value I charge:
 - How your business can win with AI
