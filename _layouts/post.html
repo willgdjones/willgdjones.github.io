@@ -26,10 +26,12 @@ layout: default
     const allEssays = [
         {% for essay in site.essays %}
         {% if essay.url != page.url %}
+        {% unless essay.draft %}
         {
             title: {{ essay.title | jsonify }},
             url: {{ essay.url | relative_url | jsonify }}
         }{% unless forloop.last %},{% endunless %}
+        {% endunless %}
         {% endif %}
         {% endfor %}
     ].filter(e => e.title);

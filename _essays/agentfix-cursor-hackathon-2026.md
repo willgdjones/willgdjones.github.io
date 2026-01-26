@@ -2,7 +2,7 @@
 layout: post
 title: "AgentFix: Auto-Fixing Errors with AI"
 date: 2026-01-02
-description: "Building AgentFix at the Build With Cursor hackathon - an AI-powered tool that automatically fixes errors in running programs."
+description: "I won the Build With Cursor hackathon with an AI-powered tool that automatically fixes errors in running programs."
 ---
 
 In December, I joined the Build With Cursor hackathon at the Granola office, where Cursor released its new Cursor SDK.

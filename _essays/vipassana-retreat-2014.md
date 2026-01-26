@@ -3,6 +3,7 @@ layout: post
 title: "Reflections from a 10 Day Vipassana Retreat in Nepal"
 date: 2014-05-01
 description: "My experience attending a 10-day Vipassana meditation retreat as a 21 year old in Nepal, exploring the practice of noble silence, equanimity, and the profound insights gained from looking inward."
+draft: true
 ---
 
 It is hard to compare this experience with anything else that I have done. I knew it was going to be challenging, but not quite on the level that I experienced. On the day I arrived, I met a whole pile of other students also apprehensive about the coming days. Two girls, called Nora and Michelle, from Nepal and Canada, respectively. It was both mine and Nora's first time, and we each exchanged nervous energy! About various things, the pain, the boredom, what we would find within ourselves, etc… On the bus and at the centre, I also spoke to a few more people to hear about their lives and the reasons for doing the course. I realised that I wasn't alone. People were drawn to the course for a reason they found difficult to explain - like I was.
