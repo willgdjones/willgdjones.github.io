@@ -5,6 +5,8 @@ date: 2025-10-07
 description: "Building an app at 'Ultimate Agents Hackathon' organised by AI Tinkerers exploring how anonymous belief matching could help people find kindred spirits and build meaningful connections without social costs."
 ---
 
+*This is the story behind [Kindred Spirits](https://kindredspirits.app/), an app I built at the Ultimate Agents Hackathon.*
+
 Finding long-term partners to embark on life's missions with is a random, beautiful melting pot that resembles Brownian motion. In Brownian version, particles jiggle around within an environment and randomly collide with each other. 
 
 We are thrown into new environments, new communities, schools, universities, and jobs. We introduce ourselves to new people, and we hear people introduce themselves to us countless times. And sometimes, if we are lucky, when someone introduces themselves to us, something resonates.
