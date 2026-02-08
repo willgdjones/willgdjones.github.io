@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Boggarts are coming"
-date: 2025-02-07
+date: 2026-02-07
 description: "At a DeepMind/Granola hackathon, I built Boggart—an AI system that generates hyper-personalised adverts for major brands by deeply understanding who you are, what you want, and what you're afraid of."
 draft: true
 ---
