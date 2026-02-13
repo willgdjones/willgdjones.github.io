@@ -15,5 +15,12 @@ I frequently think of retorts when listening to a speaker, especially after the 
 
 I got a shoutout saying that it should be a Granola feature and saw some of the Granola engineers looking at each other, maybe thinking the same… (Nyal Sadiq 👀 ) let's see!
 
+<figure>
+  <img style="max-width: 50%" src="/assets/images/Critiq.gif" alt="Critiq demo GIF">
+  <figcaption>Critiq in action: Real-time detection of contradictions in live audio</figcaption>
+</figure>
+
+
+
 Thanks to Shreman Shrestha for pointing this event out to me, Ash Prabaker from Iterate for organising, Tikhon Belousko for some last-minute support to get screen sharing from my iPhone working on the big screen for the demo, and Granola for hosting us at their Shoreditch office.
 
