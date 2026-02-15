@@ -81,3 +81,4 @@ The workshop left me energized. We are at an inflection point where intelligence
 
 As intelligence becomes too cheap to meter, the question shifts from "can we afford to think about this?" to "do we have the right data to think about this?" And that's a fundamentally different problem. One that requires us to rethink how we collect, share, and monetize sensor data in an AI-driven world.
 
+
