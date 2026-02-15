@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update!"
+title: "Sano Update"
 date: 2026-01-26
 description: "After 7 years as cofounder and CTO, I have decided to close my chapter at Sano. I will continue as an advisor while exploring new opportunities in AI and technology."
 ---

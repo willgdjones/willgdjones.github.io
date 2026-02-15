@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ARIA Extending Our Perception Workshop"
-date: 2025-02-10
+date: 2026-02-10
 description: "Reflections after attending the ARIA Extending Our Perception workshop, exploring a future where intelligence is too cheap to meter and sensors become the limiting factor in health optimization and AI-driven wellness."
 ---
 
