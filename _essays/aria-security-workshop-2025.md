@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ARIA Security Workshop at Bletchley Park"
-date: 2025-10-13
+date: 2026-10-13
 description: "Reflections on attending the ARIA Security Workshop at Bletchley Park, exploring the intersection of AI, robotics, and cryptography, and thoughts on verification, trust, and autonomy in robotic systems."
 ---
 

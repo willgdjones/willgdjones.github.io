@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VoiceBuilder: Conversation-Based Creation in MindEye at the xAI Grokathon"
-date: 2025-01-17
+date: 2026-01-17
 description: "At the Grokathon hackathon at xAI offices, I built VoiceBuilder within MindsEye: an AI agent that enables conversation-based creation in Build.Arcadia using Grok's Voice Agent API, bringing us closer to a future where AI serves as a co-creation partner in gaming."
 ---
 
