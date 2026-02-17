@@ -6,6 +6,7 @@ url: "https://willgdjones.github.io"  # Replace with your actual domain
 author: "Will Jones"
 
 # Build settings
+future: true
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 highlighter: rouge  # Added for code syntax highlighting
