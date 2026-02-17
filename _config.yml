@@ -20,11 +20,6 @@ collections:
     output: true
     permalink: /essays/:path/
 
-# Feed
-feed:
-  collections:
-    - essays
-
 # Default front matter
 defaults:
   - scope:
