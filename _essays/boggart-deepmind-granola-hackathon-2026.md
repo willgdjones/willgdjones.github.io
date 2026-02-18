@@ -3,10 +3,9 @@ layout: post
 title: "The Boggarts are coming"
 date: 2026-02-07
 description: "At a DeepMind/Granola hackathon, I built Boggart—an AI system that generates hyper-personalised adverts for major brands by deeply understanding who you are, what you want, and what you're afraid of."
-draft: true
 ---
 
-*This is the story behind Boggart, a system I built at a DeepMind/Granola hackathon on February 7th, 2025.*
+*This is the story behind [Boggart](https://boggart.ai), a system I built at a DeepMind/Granola hackathon on February 7th, 2025.*
 
 In Harry Potter, a Boggart is a creature that looks into your mind and becomes whatever you fear most. Along with three other madmen crazy enough to spend their Saturday at a hackathon, I set out to build a digital Boggart.
 
@@ -21,4 +20,6 @@ Once a profile exists, Phase 2 begins: content generation. You can ask Boggart t
 The content should feel eerily personal. It should make you think "how did it know that would work on me?" That reaction is the entire point.
 
 Boggart is a piece of art disguised as a tool. It's not here to sell you anything. It's here to show you how easily you could be sold to.
+
+Try it yourself at [boggart.ai](https://boggart.ai).
 
