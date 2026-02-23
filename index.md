@@ -14,7 +14,7 @@ Before that, I studied Mathematics at UCL (top 10 first) and Computer Science at
 
 I love building and sharing small prototypes using new technology. Please reach out to me if anything resonates with you. I am sure I would love to meet you.
 
-I operate AI consultancy projects through my company, Perihelion Limited (company number 16927629).
+I operate AI consultancy projects through my company, [Perihelion Limited](https://perihelion.limited) (company number 16927629).
 
 Areas I provide 10x the value I charge:
 
