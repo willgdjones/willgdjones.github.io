@@ -18,15 +18,15 @@ I operate AI consultancy projects through my company, [Perihelion Limited](https
 
 ## Projects
 
-- [Retinue](https://github.com/willgdjones/retinue) — Ambient AI meeting assistant `Feb 2026`
-- [Boggart](https://boggart.ai) — Hyper-personalised ads from your digital footprint `Feb 2026`
-- [Distillation](https://distillation.app) — Personalised knowledge synthesis `Feb 2026`
-- [Slipstream](https://github.com/willgdjones/slipstream) — Prediction market arbitrage bot in Rust `Jan 2026`
-- [LifetimeTax](https://lifetimetax.co.uk) — Lifetime UK tax calculator via HMRC `Jan 2026`
-- [AgentFix](https://www.npmjs.com/package/agentfix) — Auto-fixes dev server errors with AI `Dec 2025`
-- [Thiel Secrets](https://thielsecrets.com) — Contrarian belief matching app `Nov 2025`
-- [HelpMe AI](https://github.com/willgdjones/helpme) — Voice + image AI assistant `Sep 2025`
-- [DocTweak](https://github.com/willgdjones/doctweak) — AI text rewriting for Google Docs `Feb 2025`
+- [Retinue](https://github.com/willgdjones/retinue) — Ambient AI meeting assistant *Feb 2026*
+- [Boggart](https://boggart.ai) — Hyper-personalised ads from your digital footprint *Feb 2026*
+- [Distillation](https://distillation.app) — Personalised knowledge synthesis *Feb 2026*
+- [Slipstream](https://github.com/willgdjones/slipstream) — Prediction market arbitrage bot in Rust *Jan 2026*
+- [LifetimeTax](https://lifetimetax.co.uk) — Lifetime UK tax calculator via HMRC *Jan 2026*
+- [AgentFix](https://www.npmjs.com/package/agentfix) — Auto-fixes dev server errors with AI *Dec 2025*
+- [Thiel Secrets](https://thielsecrets.com) — Contrarian belief matching app *Nov 2025*
+- [HelpMe AI](https://github.com/willgdjones/helpme) — Voice + image AI assistant *Sep 2025*
+- [DocTweak](https://github.com/willgdjones/doctweak) — AI text rewriting for Google Docs *Feb 2025*
 
 Areas I provide 10x the value I charge:
 
