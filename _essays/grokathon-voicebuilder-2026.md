@@ -27,7 +27,7 @@ The goal is to use Voice AI, specifically Grok's Voice Agent API over websockets
 
 My experience transitioning into the world of high-performance gaming was eye-opening. There was a lot of new concepts for me to learn. One of the wildest things that I had to get used to was that the code repository is 350 GB! There is a specialized version control system used in the gaming industry called Perforce which allows syncing repositories of this size effectively using a different version control for remote than Git or SCM.
 
-Working with this scale of codebase and infrastructure was a reminder of just how different game development is from web development. The assets, the engine, the tooling—everything operates at a different scale. But it also reinforced my belief that AI could be the bridge that makes these powerful tools accessible to more people.
+Working with this scale of codebase and infrastructure was a reminder of just how different game development is from web development. The assets, the engine, the tooling — everything operates at a different scale. But it also reinforced my belief that AI could be the bridge that makes these powerful tools accessible to more people.
 
 ## The Hackathon Experience
 
@@ -37,5 +37,5 @@ There's something compelling about watching someone talk to an AI and see their 
 
 I plan to continue refining the Voice Agent integration, and here's the [video I recorded as my hackathon submission](https://www.loom.com/share/1196f8450c054ab1964da7c97c1595cd).
 
-The vision of conversation-based creation in gaming is still in its early stages, but hackathons like Grokathon are exactly the kind of spaces where these ideas can be tested and refined. The future of gaming won't just be about better graphics or more realistic physics—it will be about lowering the barriers to creation and letting more people bring their imaginations to life.
+The vision of conversation-based creation in gaming is still in its early stages, but hackathons like Grokathon are exactly the kind of spaces where these ideas can be tested and refined. The future of gaming won't just be about better graphics or more realistic physics — it will be about lowering the barriers to creation and letting more people bring their imaginations to life.
 
