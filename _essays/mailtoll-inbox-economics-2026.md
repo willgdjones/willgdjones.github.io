@@ -32,7 +32,7 @@ You keep your existing email address. You keep Gmail. Nothing changes about how 
 
 Your MailToll endpoint looks like this: `mailtoll.app/yourname`
 
-Any sender — human or AI agent — can visit that endpoint, pay a micropayment, and send you a message that lands in your inbox with a priority label, guaranteed. No spam filters. No algorithmic triage. Just a direct line to your attention, priced appropriately.
+Any sender — human or AI agent — can visit that endpoint, pay a micropayment, and send you a message that lands in your inbox with a dedicated priority Gmail label, guaranteed. No spam filters. No algorithmic triage. Just a direct line to your attention, priced appropriately.
 
 ---
 
@@ -58,7 +58,9 @@ Email deliverability is a black hole. LinkedIn is rate-limited and noisy. There'
 
 MailToll is that signal.
 
-Your MailToll endpoint is machine-readable by design. A GTM agent can query `mailtoll.app/yourname`, discover your pricing and preferences, execute a micropayment programmatically — via Stripe, Coinbase, stablecoins, or the emerging X402 standard — and deliver a message that's guaranteed to reach you. The entire flow, from discovery to delivery, requires no human in the loop on the sender side.
+Your MailToll endpoint is machine-readable by design. A GTM agent can query `mailtoll.app/yourname`, discover your pricing and preferences, execute a micropayment programmatically — via Stripe, Coinbase, stablecoins, or x402 — and deliver a message that's guaranteed to reach you. The entire flow, from discovery to delivery, requires no human in the loop on the sender side.
+
+x402 is the HTTP 402-based payment protocol built jointly by Coinbase and Stripe, now live on the Base network. It allows an AI agent to discover a price, pay in USDC on-chain, and proceed — all in a single programmatic loop. No account creation. No OAuth dance. Just an HTTP request with a payment attached. MailToll is one of the first inbox-layer services to support it.
 
 MailToll is, in essence, the DNS layer for agent-to-human contact. A registry of human endpoints that the agentic economy can reliably route through.
 
@@ -98,11 +100,11 @@ In a world increasingly mediated by AI agents — where more and more outreach i
 
 ---
 
-## What's Next
+## Try It
 
-MailToll is early. We're building the registry, the payment rails, and the Gmail integration now. If you're someone who gets a lot of inbound — a founder, an investor, a creator, a domain expert — and you'd like to get paid for the attention you're already giving away for free, get in touch.
+MailToll is live. Connect your Gmail, set your price, and share your endpoint. If you get a lot of inbound — as a founder, investor, creator, or domain expert — start getting paid for the attention you're already giving away for free.
 
-And if you're building a GTM agent and want a reliable channel to reach the humans your agent is trying to contact, we'd love to talk.
+If you're building a GTM agent and want a reliable, machine-readable channel to reach humans who've opted in, MailToll is the cleanest path. Query the endpoint, pay the toll, deliver the message. No account required.
 
 The inbox is broken. We're fixing it with economics.
 
