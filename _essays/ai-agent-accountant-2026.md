@@ -3,7 +3,7 @@ layout: post
 title: "I Let my F-AI-nance agent Do My Accounts"
 date: 2026-04-12
 description: "A single Claude Code session reconciled two months of business accounts, matched receipts from Gmail and Apple Photos, and uploaded everything to Xero."
-    ---
+---
 
 Last night I sat down to do my company accounts for Perihelion Limited, my UK software consultancy. I had fallen behind. Two months of Monzo business transactions were sitting unreconciled in Xero. 68 bank statement lines were waiting to be matched. Invoices were scattered across Gmail, Apple Photos, and my Downloads folder. The kind of tedious, fiddly admin work that I, like many others, procrastinate on for weeks, then pay an accountant hundreds of pounds to sort out.
 
