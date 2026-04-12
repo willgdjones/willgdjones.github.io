@@ -18,6 +18,7 @@ I operate AI consultancy projects through my company, [Perihelion Limited](https
 
 ## Projects
 
+- **[Mail Toll](https://mailtoll.app)** — Paid priority inbox for AI agents via x402 micropayments *Apr 2026*
 - **[Retinue](https://github.com/willgdjones/retinue)** — Ambient AI meeting assistant *Feb 2026*
 - **[Boggart](https://boggart.ai)** — Hyper-personalised ads from your digital footprint *Feb 2026*
 - **[Distillation](https://distillation.app)** — Personalised knowledge synthesis *Feb 2026*
