@@ -3,7 +3,6 @@ layout: post
 title: "I Let AI Read My Entire Digital Life. Then It Tried to Sell Me a Big Mac."
 date: 2026-02-28
 description: "I built an AI that ingests your digital footprint, builds a psychological profile, and generates hyper-personalised ad concepts. I pointed it at myself. Here's what happened."
-draft: true
 ---
 
 I built something uncomfortable.
