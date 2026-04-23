@@ -3,7 +3,6 @@ layout: post
 title: "Every Royal Needs a Retinue"
 date: 2026-04-23
 description: "Post-meeting summaries are now for paupers. Retinue gives you an advisory council that whispers advice to you in real time, while the meeting is still live."
-draft: true
 ---
 
 I recently attended the AI Engineer conference, and there was a lot of new terminology I hadn't heard before. Luckily, I have Retinue running on my laptop, and the definition quietly appeared. No interruption, no opening Claude and typing "what does X mean", the talk kept going, and I could keep up.
