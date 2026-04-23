@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Every Royal Had a Retinue"
+title: "Every Royal Needs a Retinue"
 date: 2026-04-23
 description: "Post-meeting summaries are now for paupers. Retinue gives you an advisory council that whispers advice to you in real time, while the meeting is still live."
 draft: true
