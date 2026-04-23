@@ -33,7 +33,7 @@ It listens to the audio of whatever you're in, whether a meeting, a talk, a podc
 
 The results show up on the side of your screen. Not as interruptions, just as options. You glance when you want to; you ignore when you don't.
 
-The precursor was Critiq, a hackathon project I built last June in a phone booth at the Granola office. It was an iPhone app that detected logical contradictions in live audio. That was proof that the live-listening piece worked, and it got me an invite to the Unicorn Mafia crew. Retinue extends the idea from a single advisor (a logician) to an entire entourage.
+The precursor was [Critiq](/essays/critiq-realtime-retort-2025/), a hackathon project I built last June in a phone booth at the Granola office. It was an iPhone app that detected logical contradictions in live audio. That was proof that the live-listening piece worked, and it got me an invite to the Unicorn Mafia crew. Retinue extends the idea from a single advisor (a logician) to an entire entourage.
 
 ## So what
 
