@@ -137,9 +137,18 @@ figure {
     text-align: center;
 }
 
-figure img,
-.post-content img,
-.page-content img {
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Bare markdown images: kramdown wraps `![alt](src)` in <p>.
+   Targeting direct children avoids touching images inside <figure>
+   or custom containers (e.g. flex layouts). */
+.post-content > p > img,
+.page-content > p > img {
     display: block;
     max-width: 100%;
     height: auto;
