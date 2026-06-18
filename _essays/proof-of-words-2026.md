@@ -5,6 +5,8 @@ date: 2026-06-18
 description: "Coherent writing has become easy to generate, so the contract between reader and writer needs a new proof of work."
 ---
 
+![Handwritten Proof of Words title](/assets/images/proof-of-words.jpg)
+
 It is now possible to generate any number of words you'd like on any topic. This makes us feel smart (well, it makes me feel smart at least). We have voice conversations with our Chats and ask it to summarise the conversation into blog posts. Then, if we think it is sufficiently interesting, or if we think we have discovered [new forms of quantum physics](https://www.instagram.com/reel/DMP-5tzhDqP/), we can share it on LinkedIn with all our professional colleagues we are trying to show off to.
 
 That's the exact moment LinkedIn started becoming unbearable. The easier it is to generate words... the more words we generate (Jevon's paradox). Low-quality words are easier to generate than high-quality words, so much of the generated words we see are low quality (this is so self-evident that it seems almost stupid to write in a sentence).
