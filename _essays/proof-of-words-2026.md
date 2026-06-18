@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proof Of Words"
-date: 2026-06-18
+date: 2026-06-02
 description: "Coherent writing has become easy to generate, so the contract between reader and writer needs a new proof of work."
 ---
 
