@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Every Royal Needs a Retinue"
-date: 2026-04-23
-description: "Post-meeting summaries are now for paupers. Retinue gives you an advisory council that whispers advice to you in real time, while the meeting is still live."
+title: Every Royal Needs a Retinue
+date: '2026-04-23'
+description: Post-meeting summaries are now for paupers. Retinue gives you an advisory
+  council that whispers advice to you in real time, while the meeting is still live.
 ---
 
-I recently attended the AI Engineer conference, and there was a lot of new terminology I hadn't heard before. Luckily, I have Retinue running on my laptop, and the definition quietly appeared. No interruption, no opening Claude and typing "what does X mean", the talk kept going, and I could keep up.
+<!-- Generated from Obsidian. Edit the source note instead. -->
+
+I recently attended the AI Engineer conference, and there was a lot of new terminology I had not heard before. Luckily, I have Retinue running on my laptop, and the definition quietly appeared. No interruption, no opening Claude and typing "what does X mean", the talk kept going, and I could keep following it.
 
 My Retinue was paying off.
 
@@ -13,7 +16,7 @@ My Retinue was paying off.
 
 ## Granola finishes the meeting. I want help during it.
 
-Apps like Granola do a great job of transcribing meetings and spitting out follow-up notes, action items, summaries, and decisions. It's useful, but all of that value lands *after* the meeting is over and everyone leaves.
+Apps like Granola do a great job of transcribing meetings and spitting out follow-up notes, action items, summaries, and decisions. It's useful, but all that value comes after the meeting is over and everyone has left.
 
 What I have consistently wanted is for the answers to arrive *during* the call. When someone makes a claim that doesn't sound right, verify it. When a question comes up, and no one in the room knows the answer, find out automatically. When someone says, "We'll circle back next week once we've figured out X", what if we didn't need to? What if X could be figured out in the next ninety seconds, while the meeting is still live?
 
@@ -39,8 +42,8 @@ The precursor was [Critiq](/essays/critiq-realtime-retort-2025/), a hackathon pr
 
 The same pattern works for anything you're listening to where the speaker has reasons to embellish. Take a political speech. During Trump's recent primetime address on the Iran war, a retinue could surface in real time which "deadlines" he's set before and let lapse, whether the Strait of Hormuz claims match what shipping data actually shows, which threats are recycled from earlier Truth Social posts ("a whole civilisation will die tonight," April 5), and what his flanking advisers have publicly said that contradicts the framing.
 
-You hear the speech once. Your retinue gives you the footnotes as it happens.
+You hear the speech once, and your retinue provides you with the footnotes as they happen.
 
 ## So what
 
-The retinue used to be the sign that you were a king. Now it's a laptop and an API key. Its job is to retire the *"we'll circle back next week when we have the answer"* moment.
+The retinue used to be the sign that you were a king; now we can all have this with a laptop or a mobile phone. Its job is to retire the *"we'll circle back next week when we have the answer"* moment.

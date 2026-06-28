@@ -1,0 +1,137 @@
+---
+essays:
+  agentfix-cursor-hackathon-2026:
+    obsidian_path: Essays/AgentFix- Auto-Fixing Errors with AI.md
+    website_path: _essays/agentfix-cursor-hackathon-2026.md
+    source_hash: 4ee32db8f47ed8438410123948fb5ea0d94f0c0cdcc78b905daa9814e5c17de6
+    output_hash: 8cffcf83cdc15c08403d8c00b08141abda4a1d97976e5b5c96f62c0efa1455b2
+  ai-agent-accountant-2026:
+    obsidian_path: Essays/I Let my F-AI-nance agent Do My Accounts.md
+    website_path: _essays/ai-agent-accountant-2026.md
+    source_hash: e9e50f73146bd6aaa11027524b7b40747a36795b100961b6d5373f919f49aeb0
+    output_hash: 7614d02674566ebf8b33b85b1c87f071dd64ab3a0c4ea1f20ace97603fefce00
+  ai-agent-missing-invoices-2026:
+    obsidian_path: Essays/I Had 100 Missing Invoices. My AI Agent Found Them All.md
+    website_path: _essays/ai-agent-missing-invoices-2026.md
+    source_hash: ce3716441d30a95176b2cd748a6af1651c43c2bfd388e178214a6147b018954f
+    output_hash: 4a4d7a1f9de03082cdfd365c8d08c0c27e62d245623b7a3da1f0215bf6ade247
+  ai-driven-coding-flow-mapper-2025:
+    obsidian_path: Essays/On AI-Driven Coding.md
+    website_path: _essays/ai-driven-coding-flow-mapper-2025.md
+    source_hash: cb6f2e99ee50d7e85d195b923132edd99410e2a9b7a5fc05cea563e2a5687d05
+    output_hash: d46f15866c2965708b34850e36c4c02a54fd58254e4c3abacff030a03284318a
+  ai-engineering-conference-2025:
+    obsidian_path: Essays/AI Engineer in Paris.md
+    website_path: _essays/ai-engineering-conference-2025.md
+    source_hash: 1540e5ff6dc550030762860409359407820025e4ea3c552ee2a417efcfd58e43
+    output_hash: 3a939623ce648bc221d1e07c0520c7571b86753ae4ec66a626a774494e7050a1
+  apis-are-the-new-product-2026:
+    obsidian_path: Essays/I Switched Accounting Software Because My AI Agent Couldn't
+      Use the API.md
+    website_path: _essays/apis-are-the-new-product-2026.md
+    source_hash: 0ed03b3b739cbe06027206d526d84fc941c1c225ecbfc3e429600da4b1240d46
+    output_hash: e03eaca6193fdf22849d4efd0e7594b85daf273bdf4aa0283c1e3757038cd4c7
+  apple-reminders-subtasks-2026:
+    obsidian_path: Essays/Four walls- how Apple silently blocks third-party Reminders
+      subtask writes.md
+    website_path: _essays/apple-reminders-subtasks-2026.md
+    source_hash: f2e32cac4b1f7cd6f291b31ac693fcf9c674e9627edc72f63499e89f43db2de3
+    output_hash: 76eadf04bd195fdcaa35a01c01a6ea634f123bfcbfe138103db7d3bd5c8d8bb5
+  aria-extending-perception-workshop-2026:
+    obsidian_path: Essays/ARIA Extending Our Perception Workshop.md
+    website_path: _essays/aria-extending-perception-workshop-2026.md
+    source_hash: 1b0375eb3f9120b1c1c571b1f213fafa1c7369c669867e30c7565e0b32020c35
+    output_hash: 1e9aaf3e72eb2734abe2bb0144ea87f01ad4d2444d076e73baea033f41f192a1
+  aria-security-workshop-2025:
+    obsidian_path: Essays/ARIA Security Workshop at Bletchley Park.md
+    website_path: _essays/aria-security-workshop-2025.md
+    source_hash: 381074438f2371f8ce64bf4e2b4c79a2c546262eb3458cbebdec1bf12569efb2
+    output_hash: 20eda31ace23f3b6b619d49595b303e2723fd6a3ea8bcf3e80b5d2caa90e1e30
+  boggart-deepmind-granola-hackathon-2026:
+    obsidian_path: Essays/The Boggarts are coming.md
+    website_path: _essays/boggart-deepmind-granola-hackathon-2026.md
+    source_hash: 2a41f390ce12728ba480985e65ed230c22d26cd6b1bc99818f408c8f7b8cfc9c
+    output_hash: 5ebe53cafbb94b8f381f46979d322284c8ef367acfed639b05df80926134f504
+  boggart-personalised-ads-2026:
+    obsidian_path: Essays/I Let AI Read My Entire Digital Life. Then It Tried to Sell
+      Me a Big Mac.md
+    website_path: _essays/boggart-personalised-ads-2026.md
+    source_hash: d94cb3794491f9fc37e5b224b152049daaf969eec758c0e9ac79393d34af8432
+    output_hash: 24202da8a7a618973d382a8f724114c33258946fa4e2f13b8d4701dcec6290b7
+  building-the-sano-agent-2025:
+    obsidian_path: Essays/Building the Sano Agent.md
+    website_path: _essays/building-the-sano-agent-2025.md
+    source_hash: f03c1231b5e3a3958273eb813bcd7df42cbac4a6081d4fc38a59f5ad93155c53
+    output_hash: aaeba5f23bd02efa194968528a5ff0bece55992c5d124ea87c80b0931d30c453
+  constrained-decoding-rag-evaluation-2025:
+    obsidian_path: Essays/Constrained Decoding and RAG Evaluation.md
+    website_path: _essays/constrained-decoding-rag-evaluation-2025.md
+    source_hash: 28a4b901acfe17605c9310a6e70140a03ba5fef9f332174d5b30b149788ab75a
+    output_hash: 6ac03a26423bc8483b30a8d898dbbcf04b18777c084753b1240beb831bc93cb8
+  critiq-realtime-retort-2025:
+    obsidian_path: Essays/Critiq- Real-time retorts.md
+    website_path: _essays/critiq-realtime-retort-2025.md
+    source_hash: 6c4506581ea386f9b20f7fce6688c1e87744ade1337448bbce7c4bbec71fff8d
+    output_hash: 1335052cb9d15646d105374687c40388513b67a016379a459e155ce87b954be9
+  doctweak-2025:
+    obsidian_path: Essays/DocTweak.md
+    website_path: _essays/doctweak-2025.md
+    source_hash: c79eec58c316f15237d263a6e41496d42ad193b733a2ffdde7f1bfcc7bebb0ee
+    output_hash: f3f6f88daa2b576f49c17193feefdf0a5d0de42898607ff3510e1bf6aecb9f11
+  every-royal-needs-a-retinue-2026:
+    obsidian_path: Essays/Every Royal Needs a Retinue.md
+    website_path: _essays/every-royal-needs-a-retinue-2026.md
+    source_hash: ef4b88971c59c37602aa3842be54b7a75a631eeaee9978b50ac8bf2f6b193d4f
+    output_hash: 305cbe71f3d096afb1f8e0490397fc9bb8e2b6f6d02ca8fee442f569154f2dc1
+  grokathon-voicebuilder-2026:
+    obsidian_path: Essays/VoiceBuilder- Conversation-Based Creation in MindEye at
+      the xAI Grokathon.md
+    website_path: _essays/grokathon-voicebuilder-2026.md
+    source_hash: 0dc922707a49aea8f7f611f40cb75e001fd483aec61c4bd87d597bc7fcd1039b
+    output_hash: 9e01ebb0a0b6b8d63e19d66a2b002f0ab6fe197b020a9af0cab6c4b14fe29b7e
+  helpme-ai-2025:
+    obsidian_path: Essays/HelpMe AI.md
+    website_path: _essays/helpme-ai-2025.md
+    source_hash: 8461b3f345d3b4f8266b5af29a11d18343ca69aac73a591e2388af56080a373a
+    output_hash: 6f3def7309eb0e3ac8ee0379c2343d7a90ab7e04cfa3c4deda45396b809da521
+  kindred-spirits-2025:
+    obsidian_path: Essays/Kindred Spirits.md
+    website_path: _essays/kindred-spirits-2025.md
+    source_hash: 7b797d65e14c33f62b0854bb7888f961f0fd1419874a75f0a80f33a847468f7b
+    output_hash: d4bf9027aa4c04e3a289569ccc0855c9bdf02315394ad89c929b41ded9e2f491
+  kindred-spirits-vibecon-2025:
+    obsidian_path: Essays/Vibecon at 30,000 Feet.md
+    website_path: _essays/kindred-spirits-vibecon-2025.md
+    source_hash: 943740bc645fe66b7587f69ad1024cf368050651e0ede56b149ad5f5e6cb46bc
+    output_hash: 79949986dfba79acc63b15171c953b4a619d7a79cedf6e2485e164c7f673b52c
+  mailtoll-inbox-economics-2026:
+    obsidian_path: Essays/MailToll - The Toll Booth for Your Email.md
+    website_path: _essays/mailtoll-inbox-economics-2026.md
+    source_hash: 0e71b06df457a9372e5d25c3a5087ddf2b0c71cd3614305002043dc9bc6fe298
+    output_hash: 652bc01b96f2cd35d89f57e4b64a3233ea038073f2d02a497d22d7aa7bd1f95b
+  proof-of-words-2026:
+    obsidian_path: Essays/Proof of Words.md
+    website_path: _essays/proof-of-words-2026.md
+    source_hash: d12008c1efdc309eedf11270154de34ac51b70b27b0bf4b7b6fb763b1c13388c
+    output_hash: e51b1180045d1779daba7f7c0b383682a62313c20cff8d30bb38d131e901052c
+  sano-update-2026:
+    obsidian_path: Essays/Sano Update.md
+    website_path: _essays/sano-update-2026.md
+    source_hash: fbadd66dcd1aa633de11def0f40bdbce4cd4fdf1fb17d3d90fc991dfe112b40c
+    output_hash: 4f399bdea03778c0c82a13b11799ed5dd72fc424bbe6276b657edc9171451ccf
+  steward-butler-for-your-life-2026:
+    obsidian_path: Essays/I Forget Birthdays. So I'm Building a Butler.md
+    website_path: _essays/steward-butler-for-your-life-2026.md
+    source_hash: '0091c60bd4d8c50a656ce54e93f25ec4422374871f489670d419279f23d6a765'
+    output_hash: ea0d7e2d15126c8395264d5c4fb868af39f4f232a641b78b15645db6f5d9525d
+  uk-economy-debate-2025:
+    obsidian_path: Essays/Two Perspectives on the UK Economy.md
+    website_path: _essays/uk-economy-debate-2025.md
+    source_hash: 992178547cc8b5761920d241d2136fef34daa918795b787ceea66db47de4f841
+    output_hash: 2835be4e27f0d8147e7527e939e7243265ec8f2f1c40bfcd7558229300e3efbc
+  vipassana-retreat-2014:
+    obsidian_path: Essays/Reflections from a 10 Day Vipassana Retreat in Nepal.md
+    website_path: _essays/vipassana-retreat-2014.md
+    source_hash: 678d1bf70c102fcb7b28e3de3886a116b3c0b0d00c4b6349bd9c7906f9005c45
+    output_hash: d12ab5a79e9575b95059ff668cb916e98d0054932f94e348ea341afe9ad9c5fc
+---
