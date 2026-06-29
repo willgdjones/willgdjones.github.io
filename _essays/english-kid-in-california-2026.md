@@ -21,6 +21,10 @@ I quickly made friends. Having some from a formal school environment in the UK w
 
 That was the first of many special times visiting California, having been there a dozen or so times since. Each time, I felt a lingering sense that I should stay longer.
 
+In July 2025, I spent the full month road-tripping around California with my wife and two young boys. We arrived in Palo Alto, drove up to Mill Valley, Stinson Beach, and Sonoma. Then stayed at Lake Tahoe, continued through Yosemite and down to Los Angeles before driving back up the coast. It was magical, and it was when we first had the thought that maybe we should try spending some time living here. 
+
+![California road trip](/assets/images/obsidian/english-kid-in-california-2026/california-road-trip.jpg)
+
 A lot has been written about what makes that place so special, and I don't think it's just the weather, although that helps.  Somehow, the boundless optimism we Brits often deride as delusional creates a melting pot where people believe in themselves far more than elsewhere in the world. Many times, the delusion label is right. But just about often enough, it is wrong!
 
 We are getting better at this in the UK, but we still have a long way to go, in my opinion, to unshackle ourselves from the natural cultural scepticism that can hold us back. I certainly felt this when interacting with people on more traditional paths while starting Sano 10 years ago, and I know that the path of betting on yourself to build a company is much more accepted now, which is a great thing.
