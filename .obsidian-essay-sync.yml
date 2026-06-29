@@ -134,4 +134,24 @@ essays:
     website_path: _essays/vipassana-retreat-2014.md
     source_hash: 678d1bf70c102fcb7b28e3de3886a116b3c0b0d00c4b6349bd9c7906f9005c45
     output_hash: d12ab5a79e9575b95059ff668cb916e98d0054932f94e348ea341afe9ad9c5fc
+  retinue-alpha-2026:
+    obsidian_path: Essays/Retinue Alpha.md
+    website_path: _essays/retinue-alpha-2026.md
+    source_hash: ef1af2a994511da8dff9197e437db88ef1697dafb0b5468dfc804410567327a8
+    output_hash: 6ec0ee6e876cd93a6b31686a13b63d8695bd5274d89700bdbca97f02b4c21671
+  makers-and-takers-2026:
+    obsidian_path: Essays/Makers and Takers.md
+    website_path: _essays/makers-and-takers-2026.md
+    source_hash: e8536cbad81f95b9eb44906b74fd0ad2860be0ddacd444101c93221fcaad73ed
+    output_hash: eb884489c5ffcbfbd0850291096ca38bcbe434f93445e89ee6ccd19ee5244f04
+  what-it-feels-like-to-code-with-ai-2026:
+    obsidian_path: Essays/What it feels like to code with AI.md
+    website_path: _essays/what-it-feels-like-to-code-with-ai-2026.md
+    source_hash: ce463abc0080dd78a1daba823a6ff7c8b7f70395e19dfaed46c1b4736d569d75
+    output_hash: 42c4bee60d7ec0190b02c7b838919228887783555e69f97ba129be95c06c9b28
+  english-kid-in-california-2026:
+    obsidian_path: Essays/English Kid in California.md
+    website_path: _essays/english-kid-in-california-2026.md
+    source_hash: df07823f12415595985bd7f06d3d586e575c7328a4dd73353f80bd73aa559121
+    output_hash: eba74109c2334fc5c2431f4fbc8e62f483d019f1b2ae0aca74458606a19ad766
 ---
