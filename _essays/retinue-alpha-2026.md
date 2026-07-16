@@ -26,3 +26,5 @@ We have the potential now to provide this experience to everyone through always-
 This is the motivation behind Retinue. What was once available only to a select few can now be available to everyone. Real-time feedback, critique, and clarification for you when you are making some of the most important decisions of your life, to avoid the avoidable mistakes, whether it be visiting a doctor, making investment decisions, or hiring people to join your team.
 
 We are opening up a very small private alpha to those people who are excited to experience this. DM me for more info!
+
+Sign up here: https://retinueapp.com/

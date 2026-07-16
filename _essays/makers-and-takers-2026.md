@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Makers and Takers
-date: '2026-06-29'
+title: Be a Maker not a Taker
+date: '2026-06-28'
 description: A short reflection on makers, takers, and why AI seems to empower one
   group while provoking the other.
 draft: true

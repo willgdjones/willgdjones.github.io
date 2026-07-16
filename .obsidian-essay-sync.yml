@@ -1,10 +1,10 @@
 ---
 essays:
   agentfix-cursor-hackathon-2026:
-    obsidian_path: Essays/AgentFix- Auto-Fixing Errors with AI.md
+    obsidian_path: Essays/AgentFix - AutoFix Your Errors with AI.md
     website_path: _essays/agentfix-cursor-hackathon-2026.md
-    source_hash: 4ee32db8f47ed8438410123948fb5ea0d94f0c0cdcc78b905daa9814e5c17de6
-    output_hash: 8cffcf83cdc15c08403d8c00b08141abda4a1d97976e5b5c96f62c0efa1455b2
+    source_hash: d57c9efd7a484b24517877b1c098b44d04871415138257678b3980f7fb72984b
+    output_hash: 5fb9035acfd3f6e665cc89814db9c7b1c7eea0f3d44162ea51046eb89cd8ed8e
   ai-agent-accountant-2026:
     obsidian_path: Essays/I Let my F-AI-nance agent Do My Accounts.md
     website_path: _essays/ai-agent-accountant-2026.md
@@ -64,10 +64,10 @@ essays:
     source_hash: f03c1231b5e3a3958273eb813bcd7df42cbac4a6081d4fc38a59f5ad93155c53
     output_hash: aaeba5f23bd02efa194968528a5ff0bece55992c5d124ea87c80b0931d30c453
   constrained-decoding-rag-evaluation-2025:
-    obsidian_path: Essays/Constrained Decoding and RAG Evaluation.md
+    obsidian_path: Essays/Learning about Constrained Decoding and RAG Evaluation.md
     website_path: _essays/constrained-decoding-rag-evaluation-2025.md
-    source_hash: 28a4b901acfe17605c9310a6e70140a03ba5fef9f332174d5b30b149788ab75a
-    output_hash: 6ac03a26423bc8483b30a8d898dbbcf04b18777c084753b1240beb831bc93cb8
+    source_hash: a8c8c1c2aa69df244c9093e7c35b4ba86a165bdf526c57bd89ee31e67696baa3
+    output_hash: 6108a849f27fb427d787b11e6a463ab364c690da1dbcdf10667178cbd135e8b3
   critiq-realtime-retort-2025:
     obsidian_path: Essays/Critiq- Real-time retorts.md
     website_path: _essays/critiq-realtime-retort-2025.md
@@ -84,11 +84,10 @@ essays:
     source_hash: ef4b88971c59c37602aa3842be54b7a75a631eeaee9978b50ac8bf2f6b193d4f
     output_hash: 305cbe71f3d096afb1f8e0490397fc9bb8e2b6f6d02ca8fee442f569154f2dc1
   grokathon-voicebuilder-2026:
-    obsidian_path: Essays/VoiceBuilder- Conversation-Based Creation in MindEye at
-      the xAI Grokathon.md
+    obsidian_path: Essays/Why don't games have AIs yet?.md
     website_path: _essays/grokathon-voicebuilder-2026.md
-    source_hash: 0dc922707a49aea8f7f611f40cb75e001fd483aec61c4bd87d597bc7fcd1039b
-    output_hash: 9e01ebb0a0b6b8d63e19d66a2b002f0ab6fe197b020a9af0cab6c4b14fe29b7e
+    source_hash: 05555e55e352a30c9540486f4664e29a32e8fd568bfd380f767075b57aa84fc1
+    output_hash: c18adffa6f42717419e01ceabbabbc5ec816ab1173de6eb23cee1e9a2f41d45e
   helpme-ai-2025:
     obsidian_path: Essays/HelpMe AI.md
     website_path: _essays/helpme-ai-2025.md
@@ -105,10 +104,10 @@ essays:
     source_hash: 943740bc645fe66b7587f69ad1024cf368050651e0ede56b149ad5f5e6cb46bc
     output_hash: 79949986dfba79acc63b15171c953b4a619d7a79cedf6e2485e164c7f673b52c
   mailtoll-inbox-economics-2026:
-    obsidian_path: Essays/MailToll - The Toll Booth for Your Email.md
+    obsidian_path: Essays/MailToll - Pay For Me To See Your Email.md
     website_path: _essays/mailtoll-inbox-economics-2026.md
-    source_hash: 0e71b06df457a9372e5d25c3a5087ddf2b0c71cd3614305002043dc9bc6fe298
-    output_hash: 652bc01b96f2cd35d89f57e4b64a3233ea038073f2d02a497d22d7aa7bd1f95b
+    source_hash: 9dc4bdecc3e778d3430570b23434a280ddb5c7a14bf19f3dbcb7852bca1dd487
+    output_hash: e711e0287da7b5dde8bee945989f515dafc2320ba70cdfffa8a9f2b2e7bdfb36
   proof-of-words-2026:
     obsidian_path: Essays/Proof of Words.md
     website_path: _essays/proof-of-words-2026.md
@@ -137,21 +136,21 @@ essays:
   retinue-alpha-2026:
     obsidian_path: Essays/Retinue Alpha.md
     website_path: _essays/retinue-alpha-2026.md
-    source_hash: ef1af2a994511da8dff9197e437db88ef1697dafb0b5468dfc804410567327a8
-    output_hash: 6ec0ee6e876cd93a6b31686a13b63d8695bd5274d89700bdbca97f02b4c21671
+    source_hash: 3e5fe25bc3bf8329e95af72c7e486de9b80ababedc84e189ca9306c7f6aa5cb9
+    output_hash: eb6dae384fbe009bd0fa6c05cbc8eee66977bb294ae5ac4d904c8076bee3bece
   makers-and-takers-2026:
-    obsidian_path: Essays/Makers and Takers.md
+    obsidian_path: Essays/Be a Maker not a Taker.md
     website_path: _essays/makers-and-takers-2026.md
-    source_hash: e8536cbad81f95b9eb44906b74fd0ad2860be0ddacd444101c93221fcaad73ed
-    output_hash: eb884489c5ffcbfbd0850291096ca38bcbe434f93445e89ee6ccd19ee5244f04
+    source_hash: 827dcc03eea0f0f8d0444861f82c39e1c944641250ecc608f4a2dc86bae235d0
+    output_hash: 7cffd48f5311f1c477b5acf9dc337cb3b17ad0212aa71e736615bba50a1ab266
   what-it-feels-like-to-code-with-ai-2026:
     obsidian_path: Essays/What it feels like to code with AI.md
     website_path: _essays/what-it-feels-like-to-code-with-ai-2026.md
-    source_hash: ce463abc0080dd78a1daba823a6ff7c8b7f70395e19dfaed46c1b4736d569d75
+    source_hash: 90b0d707f5a821fd95d152fc1a7fcc158e735b04c03bb19b69cebd8bfbce0171
     output_hash: 42c4bee60d7ec0190b02c7b838919228887783555e69f97ba129be95c06c9b28
   english-kid-in-california-2026:
     obsidian_path: Essays/English Kid in California.md
     website_path: _essays/english-kid-in-california-2026.md
-    source_hash: d4e82ffc33d32a055bb432a4aba92f2c0b7d3429e338e0891fffed32e2d50a45
-    output_hash: b3336c7e5383a606cde769392ef13f1ff469d717302bf2b86b354eb3f61dbbf9
+    source_hash: 881835e6641faa8843cc238d3694a1af484f4d4e243707f71503dc3c44f04546
+    output_hash: 043c4ff825d6b37b5413bc931ecceac84cfe2315508874201e4685beff9c2d11
 ---

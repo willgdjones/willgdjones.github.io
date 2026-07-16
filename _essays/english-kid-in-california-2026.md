@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English kid in California
-date: '2026-06-29'
+date: '2026-07-13'
 description: Reflections on moving to San Francisco with my family, childhood memories
   of being the English kid in California, and the optimism that makes the place feel
   different.
@@ -29,4 +29,4 @@ A lot has been written about what makes that place so special, and I don't think
 
 We are getting better at this in the UK, but we still have a long way to go, in my opinion, to unshackle ourselves from the natural cultural scepticism that can hold us back. I certainly felt this when interacting with people on more traditional paths while starting Sano 10 years ago, and I know that the path of betting on yourself to build a company is much more accepted now, which is a great thing.
 
-For now, I am riding the AI wave as part of an amazing team building new experiences in the gaming industry. I'm looking forward to sharing more about it - but I'll save that for another time!
+For now, I am riding the AI wave as part of an amazing team building new experiences with some gaming legends. I'm looking forward to sharing more about it - but I'll save that for another time!

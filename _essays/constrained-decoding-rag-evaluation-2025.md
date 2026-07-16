@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Constrained Decoding and RAG Evaluation"
+title: "Learning about Constrained Decoding and RAG Evaluation"
 date: 2025-12-02
 description: "Exploring how structured outputs work under the hood through constrained decoding, and how to properly evaluate RAG systems for reliable information retrieval across PDF documents."
 ---

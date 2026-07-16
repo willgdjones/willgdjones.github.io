@@ -2,7 +2,7 @@
 layout: post
 title: "MailToll - The Toll Booth for Your Email"
 date: 2026-04-04
-description: "Email has no cost signal separating genuine intent from noise. MailToll adds a priced fast lane to your inbox — and pays you for your attention."
+description: "Email has no cost signal separating genuine intent from noise. MailToll adds a priced fast lane to your inbox and pays you for your attention."
 ---
 
 Email was supposed to be a communication tool. Instead, it became a dumping ground — a place where anyone, with zero cost and zero accountability, can demand your attention indefinitely.

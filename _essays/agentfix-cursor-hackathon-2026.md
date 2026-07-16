@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AgentFix: Auto-Fixing Errors with AI"
+title: "AgentFix - AutoFix Your Errors with AI"
 date: 2026-01-02
 description: "I won the Build With Cursor hackathon with an AI-powered tool that automatically fixes errors in running programs."
 ---
