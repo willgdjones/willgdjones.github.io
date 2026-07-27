@@ -151,6 +151,11 @@ essays:
   english-kid-in-california-2026:
     obsidian_path: Essays/English Kid in California.md
     website_path: _essays/english-kid-in-california-2026.md
-    source_hash: 881835e6641faa8843cc238d3694a1af484f4d4e243707f71503dc3c44f04546
-    output_hash: 043c4ff825d6b37b5413bc931ecceac84cfe2315508874201e4685beff9c2d11
+    source_hash: ba53ac699aa2b9146a76587edce3c538405eb753a1e846f18c4405357ed8f89f
+    output_hash: 449573aa46c03f9cb00e1fe7896efdc9e34cd528ec099f00b3a793b722e61ae6
+  email-nudging-works-2026:
+    obsidian_path: Essays/Email Nudging Works.md
+    website_path: _essays/email-nudging-works-2026.md
+    source_hash: 5876ef5c7cb30528ac62206651f4ee51b1c2db7df7fac496d5091047bac0e8e3
+    output_hash: 02752867f83acb43702a9f86bdf4a930575b431db8cfda6178fc1939da0bd755
 ---
