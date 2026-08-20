@@ -5,8 +5,6 @@ title: Experiments
 
 <!-- Generated from Obsidian. Edit the source note instead. -->
 
-## Experiments
-
 - **[Mail Toll](https://mailtoll.app)** — Paid priority inbox for AI agents via x402 micropayments *Apr 2026*
 - **[Steward](https://github.com/willgdjones/steward)** — Personal AI agent for Gmail admin; swipe-to-approve, exception-only *Apr 2026*
 - **[Fainance](https://github.com/willgdjones/fainance)** — Claude Code agent reconciling Monzo + Xero; auto-matches receipts *Apr 2026*

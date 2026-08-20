@@ -165,7 +165,7 @@ homepage:
   output_hash: b384fb3de65b92e6d78d1c19bc2ea2f03e93c5f54600dc71f005f3677bd86726
 experiments:
   obsidian_path: Experiments.md
-  website_path: experiments/index.html
-  source_hash: a8dc28627cf836101f7e73a6d9fbed67cf9e5ddf386115e2569b1b6116f1500a
-  output_hash: 148dab04d667aaabb4e44336c8b2059b953ed3ca12f9a625308b24a59da677ca
+  website_path: experiments/index.md
+  source_hash: b6f6eb4daad75358d98a561103a6d946da9c3ba2ce5fa174606eeb5219fa1a34
+  output_hash: c617f4e133813ad74e7fbb105834ee55ce692f0844e2e556dc8daeb5db32b1d6
 ---

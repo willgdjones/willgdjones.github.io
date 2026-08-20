@@ -6,7 +6,7 @@ require_relative "obsidian_essay_sync"
 include ObsidianEssaySync
 
 source_path = OBSIDIAN_VAULT_DIR.join("Experiments.md")
-website_path = REPO_ROOT.join("experiments/index.html")
+website_path = REPO_ROOT.join("experiments/index.md")
 manifest = read_manifest
 manifest["experiments"] ||= {}
 dry_run = dry_run?
