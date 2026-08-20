@@ -1,10 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Home
 ---
+
+<!-- Generated from Obsidian. Edit the source note instead. -->
 
 Figuring out the future and building the obvious.
 
@@ -13,6 +12,8 @@ Between 2018 and 2025, I was CTO and cofounder of Sano Genetics, and built softw
 Before that, I studied Mathematics at UCL (top 10 first) and Computer Science at Cambridge (Distinction), and I was a postgraduate researcher in Machine Learning and Genetics at the Wellcome Trust Sanger Institute.
 
 I love building and sharing small prototypes using new technology. Please reach out to me if anything resonates with you. I am sure I would love to meet you.
+
+I have joined some legends from the gaming industry at Build A Rocket Boy as Head of AI, based out of San Francisco.
 
 I operate AI consultancy projects through my company, [Perihelion Limited](https://perihelion.limited) (company number 16927629).
 

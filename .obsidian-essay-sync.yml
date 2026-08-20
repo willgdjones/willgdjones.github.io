@@ -157,5 +157,10 @@ essays:
     obsidian_path: Essays/Email Nudging Works.md
     website_path: _essays/email-nudging-works-2026.md
     source_hash: 5876ef5c7cb30528ac62206651f4ee51b1c2db7df7fac496d5091047bac0e8e3
-    output_hash: 02752867f83acb43702a9f86bdf4a930575b431db8cfda6178fc1939da0bd755
+    output_hash: '02752867f83acb43702a9f86bdf4a930575b431db8cfda6178fc1939da0bd755'
+homepage:
+  obsidian_path: Homepage.md
+  website_path: index.md
+  source_hash: aa80b602edc9659c2c4b52487325b722d336ffd16814921af217a3166ac639c5
+  output_hash: 4f4a2c34fb9d682d3bcd258321187c17f71ade23056d65fde297dae5842acbf9
 ---
