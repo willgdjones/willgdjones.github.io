@@ -19,7 +19,7 @@ I operate AI consultancy projects through my company, [Perihelion Limited](https
 
 ## Projects
 
-- **[Retinue](https://willgdjones.com/essays/every-royal-needs-a-retinue-2026/)** — An AI meeting assistant that actually helps you during the meeting *Mar 2026*
+- **[Retinue](https://willgdjones.com/essays/every-royal-needs-a-retinue-2026/)** — An AI meeting assistant that actually helps you during the meeting
 
 Areas I provide 10x the value I charge:
 
