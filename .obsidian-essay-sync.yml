@@ -161,8 +161,8 @@ essays:
 homepage:
   obsidian_path: Homepage.md
   website_path: index.md
-  source_hash: ce9c38859d7a187451aeebf5a7cb09557f067180e0d1a71fca08c07ab2769393
-  output_hash: e912c24d1a9218872e88f21c5b95329f68e573b9d75f0b2f326dede1b981f8fb
+  source_hash: e7a2693f9c248beb5dcda78746c7413413ae8726d6f89cb230a48cf339ac1197
+  output_hash: 472eb79b0dcfecf83bc0a8fd3b18abed663d7cd62b1275f976af4fab89e15a10
 experiments:
   obsidian_path: Experiments.md
   website_path: experiments/index.html
