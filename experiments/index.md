@@ -8,7 +8,7 @@ title: Experiments
 - **[Pokemon Yellow 3D](https://github.com/willgdjones/pokemon-yellow-3d)** — Game Boy Pokemon Yellow rebuilt tile for tile in Unreal Engine 5, with real-time battles; built by AI agents ([essay](/essays/pokemon-yellow-3d-2026/)) *Oct 2026*
 - **[Ninjago French](https://ninjago-french.pages.dev)** — iPad battle game teaching my 7-year-old the first 5,000 French words ([code](https://github.com/willgdjones/ninjago-french), [essay](/essays/ninjago-french-2026/)) *Oct 2026*
 - **[Ninjago Tournament](https://ninjago-tournament.pages.dev)** — Reading battle game for my 4-year-old, from his own drawing ([code](https://github.com/willgdjones/ninjago-tournament), [essay](/essays/ninjago-tournament-2026/)) *Oct 2026*
-- **[Grand Tech Auto: San Francisco](https://gtasf.pages.dev)** — Browser multiplayer city built from real San Francisco roads, terrain and buildings (invite-only playtest) *Oct 2026*
+- **[Grand Tech Auto: San Francisco](https://gtasf.com)** — Multiplayer GTA-style game in real San Francisco, built with a swarm of AI agents ([code](https://github.com/willgdjones/grand-tech-auto-sf), [essay](/essays/grand-tech-auto-san-francisco-2026/)) *Oct 2026*
 - **[Trading Bot](https://github.com/willgdjones/tradingbot-public)** — Multi-strategy trading system that proves edges with small live stakes before growing capital *Oct 2026*
 - **Billion Dollar Times Square** — Persistent multiplayer Times Square in the browser where every screen is for sale *Sep 2026*
 - **Ninjago: The Ninja Journey** — Local co-op browser adventure for up to four family members *Sep 2026*

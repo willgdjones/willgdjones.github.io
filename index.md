@@ -23,7 +23,7 @@ I operate AI consultancy projects through my company, [Perihelion Limited](https
 - **[Pokemon Yellow 3D](https://github.com/willgdjones/pokemon-yellow-3d)** — Game Boy Pokemon Yellow rebuilt tile for tile in Unreal Engine 5 by AI agents ([essay](/essays/pokemon-yellow-3d-2026/))
 - **[Ninjago French](https://ninjago-french.pages.dev)** — An iPad game teaching my son the first 5,000 French words ([essay](/essays/ninjago-french-2026/))
 - **[Ninjago Tournament](https://ninjago-tournament.pages.dev)** — A reading battle game for my four-year-old, from his own drawing ([essay](/essays/ninjago-tournament-2026/))
-- **[Grand Tech Auto: San Francisco](https://gtasf.pages.dev)** — A browser multiplayer city built from real San Francisco (invite-only playtest)
+- **[Grand Tech Auto: San Francisco](https://gtasf.com)** — A GTA-style multiplayer game in real San Francisco, built with a swarm of AI agents ([code](https://github.com/willgdjones/grand-tech-auto-sf), [essay](/essays/grand-tech-auto-san-francisco-2026/))
 
 Areas I provide 10x the value I charge:
 
