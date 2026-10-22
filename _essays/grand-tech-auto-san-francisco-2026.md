@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grand Tech Auto: San Francisco'
-date: '2026-10-22'
+date: '2026-10-02'
 description: A GTA-style multiplayer game set in real San Francisco, built in about three weeks by one person directing a swarm of AI coding agents. Play it in the browser; the code is open.
 ---
 
